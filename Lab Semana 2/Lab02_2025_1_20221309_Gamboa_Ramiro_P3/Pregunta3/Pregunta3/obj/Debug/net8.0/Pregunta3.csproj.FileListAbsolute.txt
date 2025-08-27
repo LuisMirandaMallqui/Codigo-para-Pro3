@@ -1,0 +1,14 @@
+D:\Descargas\Programacion 3\Lab 02\Lab 02 2025-1\Lab02_2025_1_20221309_Gamboa_Ramiro_P3\Pregunta3\Pregunta3\bin\Debug\net8.0\Pregunta3.exe
+D:\Descargas\Programacion 3\Lab 02\Lab 02 2025-1\Lab02_2025_1_20221309_Gamboa_Ramiro_P3\Pregunta3\Pregunta3\bin\Debug\net8.0\Pregunta3.deps.json
+D:\Descargas\Programacion 3\Lab 02\Lab 02 2025-1\Lab02_2025_1_20221309_Gamboa_Ramiro_P3\Pregunta3\Pregunta3\bin\Debug\net8.0\Pregunta3.runtimeconfig.json
+D:\Descargas\Programacion 3\Lab 02\Lab 02 2025-1\Lab02_2025_1_20221309_Gamboa_Ramiro_P3\Pregunta3\Pregunta3\bin\Debug\net8.0\Pregunta3.dll
+D:\Descargas\Programacion 3\Lab 02\Lab 02 2025-1\Lab02_2025_1_20221309_Gamboa_Ramiro_P3\Pregunta3\Pregunta3\bin\Debug\net8.0\Pregunta3.pdb
+D:\Descargas\Programacion 3\Lab 02\Lab 02 2025-1\Lab02_2025_1_20221309_Gamboa_Ramiro_P3\Pregunta3\Pregunta3\obj\Debug\net8.0\Pregunta3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Descargas\Programacion 3\Lab 02\Lab 02 2025-1\Lab02_2025_1_20221309_Gamboa_Ramiro_P3\Pregunta3\Pregunta3\obj\Debug\net8.0\Pregunta3.AssemblyInfoInputs.cache
+D:\Descargas\Programacion 3\Lab 02\Lab 02 2025-1\Lab02_2025_1_20221309_Gamboa_Ramiro_P3\Pregunta3\Pregunta3\obj\Debug\net8.0\Pregunta3.AssemblyInfo.cs
+D:\Descargas\Programacion 3\Lab 02\Lab 02 2025-1\Lab02_2025_1_20221309_Gamboa_Ramiro_P3\Pregunta3\Pregunta3\obj\Debug\net8.0\Pregunta3.csproj.CoreCompileInputs.cache
+D:\Descargas\Programacion 3\Lab 02\Lab 02 2025-1\Lab02_2025_1_20221309_Gamboa_Ramiro_P3\Pregunta3\Pregunta3\obj\Debug\net8.0\Pregunta3.dll
+D:\Descargas\Programacion 3\Lab 02\Lab 02 2025-1\Lab02_2025_1_20221309_Gamboa_Ramiro_P3\Pregunta3\Pregunta3\obj\Debug\net8.0\refint\Pregunta3.dll
+D:\Descargas\Programacion 3\Lab 02\Lab 02 2025-1\Lab02_2025_1_20221309_Gamboa_Ramiro_P3\Pregunta3\Pregunta3\obj\Debug\net8.0\Pregunta3.pdb
+D:\Descargas\Programacion 3\Lab 02\Lab 02 2025-1\Lab02_2025_1_20221309_Gamboa_Ramiro_P3\Pregunta3\Pregunta3\obj\Debug\net8.0\Pregunta3.genruntimeconfig.cache
+D:\Descargas\Programacion 3\Lab 02\Lab 02 2025-1\Lab02_2025_1_20221309_Gamboa_Ramiro_P3\Pregunta3\Pregunta3\obj\Debug\net8.0\ref\Pregunta3.dll

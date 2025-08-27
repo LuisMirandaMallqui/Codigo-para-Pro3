@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Descargas\\Programacion 3\\Lab 02\\Lab 02 2025-1\\Lab02_2025_1_20221309_Gamboa_Ramiro_P2\\Pregunta2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC0D273-5E9D-41B8-8A35-ABCC30994CC4}|Pregunta2\\Pregunta2.csproj|d:\\descargas\\programacion 3\\lab 02\\lab 02 2025-1\\lab02_2025_1_20221309_gamboa_ramiro_p2\\pregunta2\\pregunta2\\cancion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC0D273-5E9D-41B8-8A35-ABCC30994CC4}|Pregunta2\\Pregunta2.csproj|solutionrelative:pregunta2\\cancion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC0D273-5E9D-41B8-8A35-ABCC30994CC4}|Pregunta2\\Pregunta2.csproj|d:\\descargas\\programacion 3\\lab 02\\lab 02 2025-1\\lab02_2025_1_20221309_gamboa_ramiro_p2\\pregunta2\\pregunta2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC0D273-5E9D-41B8-8A35-ABCC30994CC4}|Pregunta2\\Pregunta2.csproj|solutionrelative:pregunta2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC0D273-5E9D-41B8-8A35-ABCC30994CC4}|Pregunta2\\Pregunta2.csproj|d:\\descargas\\programacion 3\\lab 02\\lab 02 2025-1\\lab02_2025_1_20221309_gamboa_ramiro_p2\\pregunta2\\pregunta2\\cancionbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC0D273-5E9D-41B8-8A35-ABCC30994CC4}|Pregunta2\\Pregunta2.csproj|solutionrelative:pregunta2\\cancionbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC0D273-5E9D-41B8-8A35-ABCC30994CC4}|Pregunta2\\Pregunta2.csproj|d:\\descargas\\programacion 3\\lab 02\\lab 02 2025-1\\lab02_2025_1_20221309_gamboa_ramiro_p2\\pregunta2\\pregunta2\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC0D273-5E9D-41B8-8A35-ABCC30994CC4}|Pregunta2\\Pregunta2.csproj|solutionrelative:pregunta2\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CancionBuilder.cs",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Lab 02\\Lab 02 2025-1\\Lab02_2025_1_20221309_Gamboa_Ramiro_P2\\Pregunta2\\Pregunta2\\CancionBuilder.cs",
+              "RelativeDocumentMoniker": "Pregunta2\\CancionBuilder.cs",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Lab 02\\Lab 02 2025-1\\Lab02_2025_1_20221309_Gamboa_Ramiro_P2\\Pregunta2\\Pregunta2\\CancionBuilder.cs",
+              "RelativeToolTip": "Pregunta2\\CancionBuilder.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAA6wG0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T23:56:50.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Genero.cs",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Lab 02\\Lab 02 2025-1\\Lab02_2025_1_20221309_Gamboa_Ramiro_P2\\Pregunta2\\Pregunta2\\Genero.cs",
+              "RelativeDocumentMoniker": "Pregunta2\\Genero.cs",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Lab 02\\Lab 02 2025-1\\Lab02_2025_1_20221309_Gamboa_Ramiro_P2\\Pregunta2\\Pregunta2\\Genero.cs",
+              "RelativeToolTip": "Pregunta2\\Genero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T23:02:45.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cancion.cs",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Lab 02\\Lab 02 2025-1\\Lab02_2025_1_20221309_Gamboa_Ramiro_P2\\Pregunta2\\Pregunta2\\Cancion.cs",
+              "RelativeDocumentMoniker": "Pregunta2\\Cancion.cs",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Lab 02\\Lab 02 2025-1\\Lab02_2025_1_20221309_Gamboa_Ramiro_P2\\Pregunta2\\Pregunta2\\Cancion.cs",
+              "RelativeToolTip": "Pregunta2\\Cancion.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAmwEQAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T22:57:59.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Lab 02\\Lab 02 2025-1\\Lab02_2025_1_20221309_Gamboa_Ramiro_P2\\Pregunta2\\Pregunta2\\Program.cs",
+              "RelativeDocumentMoniker": "Pregunta2\\Program.cs",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Lab 02\\Lab 02 2025-1\\Lab02_2025_1_20221309_Gamboa_Ramiro_P2\\Pregunta2\\Pregunta2\\Program.cs",
+              "RelativeToolTip": "Pregunta2\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T22:55:52.335Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
