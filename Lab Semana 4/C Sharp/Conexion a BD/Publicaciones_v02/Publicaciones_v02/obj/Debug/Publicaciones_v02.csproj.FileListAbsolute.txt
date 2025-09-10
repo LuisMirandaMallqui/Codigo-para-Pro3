@@ -1,0 +1,8 @@
+D:\Descargas\Programacion 3\Lab 04\C Sharp\Conexion a BD\Publicaciones_v02\Publicaciones_v02\bin\Debug\Publicaciones_v01.exe.config
+D:\Descargas\Programacion 3\Lab 04\C Sharp\Conexion a BD\Publicaciones_v02\Publicaciones_v02\bin\Debug\Publicaciones_v01.exe
+D:\Descargas\Programacion 3\Lab 04\C Sharp\Conexion a BD\Publicaciones_v02\Publicaciones_v02\bin\Debug\Publicaciones_v01.pdb
+D:\Descargas\Programacion 3\Lab 04\C Sharp\Conexion a BD\Publicaciones_v02\Publicaciones_v02\obj\Debug\Publicaciones_v02.csproj.AssemblyReference.cache
+D:\Descargas\Programacion 3\Lab 04\C Sharp\Conexion a BD\Publicaciones_v02\Publicaciones_v02\obj\Debug\Publicaciones_v01.exe.config
+D:\Descargas\Programacion 3\Lab 04\C Sharp\Conexion a BD\Publicaciones_v02\Publicaciones_v02\obj\Debug\Publicaciones_v02.csproj.CoreCompileInputs.cache
+D:\Descargas\Programacion 3\Lab 04\C Sharp\Conexion a BD\Publicaciones_v02\Publicaciones_v02\obj\Debug\Publicaciones_v01.exe
+D:\Descargas\Programacion 3\Lab 04\C Sharp\Conexion a BD\Publicaciones_v02\Publicaciones_v02\obj\Debug\Publicaciones_v01.pdb

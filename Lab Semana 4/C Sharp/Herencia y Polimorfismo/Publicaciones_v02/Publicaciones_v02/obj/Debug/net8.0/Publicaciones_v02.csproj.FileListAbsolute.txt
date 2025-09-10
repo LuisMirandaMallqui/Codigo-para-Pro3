@@ -1,0 +1,14 @@
+D:\Descargas\Programacion 3\Lab 04\Publicaciones_v02\Publicaciones_v02\bin\Debug\net8.0\Publicaciones_v02.exe
+D:\Descargas\Programacion 3\Lab 04\Publicaciones_v02\Publicaciones_v02\bin\Debug\net8.0\Publicaciones_v02.deps.json
+D:\Descargas\Programacion 3\Lab 04\Publicaciones_v02\Publicaciones_v02\bin\Debug\net8.0\Publicaciones_v02.runtimeconfig.json
+D:\Descargas\Programacion 3\Lab 04\Publicaciones_v02\Publicaciones_v02\bin\Debug\net8.0\Publicaciones_v02.dll
+D:\Descargas\Programacion 3\Lab 04\Publicaciones_v02\Publicaciones_v02\bin\Debug\net8.0\Publicaciones_v02.pdb
+D:\Descargas\Programacion 3\Lab 04\Publicaciones_v02\Publicaciones_v02\obj\Debug\net8.0\Publicaciones_v02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Descargas\Programacion 3\Lab 04\Publicaciones_v02\Publicaciones_v02\obj\Debug\net8.0\Publicaciones_v02.AssemblyInfoInputs.cache
+D:\Descargas\Programacion 3\Lab 04\Publicaciones_v02\Publicaciones_v02\obj\Debug\net8.0\Publicaciones_v02.AssemblyInfo.cs
+D:\Descargas\Programacion 3\Lab 04\Publicaciones_v02\Publicaciones_v02\obj\Debug\net8.0\Publicaciones_v02.csproj.CoreCompileInputs.cache
+D:\Descargas\Programacion 3\Lab 04\Publicaciones_v02\Publicaciones_v02\obj\Debug\net8.0\Publicaciones_v02.dll
+D:\Descargas\Programacion 3\Lab 04\Publicaciones_v02\Publicaciones_v02\obj\Debug\net8.0\refint\Publicaciones_v02.dll
+D:\Descargas\Programacion 3\Lab 04\Publicaciones_v02\Publicaciones_v02\obj\Debug\net8.0\Publicaciones_v02.pdb
+D:\Descargas\Programacion 3\Lab 04\Publicaciones_v02\Publicaciones_v02\obj\Debug\net8.0\Publicaciones_v02.genruntimeconfig.cache
+D:\Descargas\Programacion 3\Lab 04\Publicaciones_v02\Publicaciones_v02\obj\Debug\net8.0\ref\Publicaciones_v02.dll

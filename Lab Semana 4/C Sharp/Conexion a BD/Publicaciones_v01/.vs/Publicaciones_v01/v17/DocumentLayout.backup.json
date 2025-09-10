@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Descargas\\Programacion 3\\Lab 04\\C Sharp\\Conexion a BD\\Publicaciones_v01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{017D7D4D-BAB2-4CE2-BFCE-3B252A0A50A0}|Publicaciones_v01\\Publicaciones_v01.csproj|d:\\descargas\\programacion 3\\lab 04\\c sharp\\conexion a bd\\publicaciones_v01\\publicaciones_v01\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017D7D4D-BAB2-4CE2-BFCE-3B252A0A50A0}|Publicaciones_v01\\Publicaciones_v01.csproj|solutionrelative:publicaciones_v01\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{017D7D4D-BAB2-4CE2-BFCE-3B252A0A50A0}|Publicaciones_v01\\Publicaciones_v01.csproj|d:\\descargas\\programacion 3\\lab 04\\c sharp\\conexion a bd\\publicaciones_v01\\publicaciones_v01\\publicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017D7D4D-BAB2-4CE2-BFCE-3B252A0A50A0}|Publicaciones_v01\\Publicaciones_v01.csproj|solutionrelative:publicaciones_v01\\publicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{017D7D4D-BAB2-4CE2-BFCE-3B252A0A50A0}|Publicaciones_v01\\Publicaciones_v01.csproj|d:\\descargas\\programacion 3\\lab 04\\c sharp\\conexion a bd\\publicaciones_v01\\publicaciones_v01\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017D7D4D-BAB2-4CE2-BFCE-3B252A0A50A0}|Publicaciones_v01\\Publicaciones_v01.csproj|solutionrelative:publicaciones_v01\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{017D7D4D-BAB2-4CE2-BFCE-3B252A0A50A0}|Publicaciones_v01\\Publicaciones_v01.csproj|d:\\descargas\\programacion 3\\lab 04\\c sharp\\conexion a bd\\publicaciones_v01\\publicaciones_v01\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017D7D4D-BAB2-4CE2-BFCE-3B252A0A50A0}|Publicaciones_v01\\Publicaciones_v01.csproj|solutionrelative:publicaciones_v01\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{017D7D4D-BAB2-4CE2-BFCE-3B252A0A50A0}|Publicaciones_v01\\Publicaciones_v01.csproj|d:\\descargas\\programacion 3\\lab 04\\c sharp\\conexion a bd\\publicaciones_v01\\publicaciones_v01\\tesis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017D7D4D-BAB2-4CE2-BFCE-3B252A0A50A0}|Publicaciones_v01\\Publicaciones_v01.csproj|solutionrelative:publicaciones_v01\\tesis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{017D7D4D-BAB2-4CE2-BFCE-3B252A0A50A0}|Publicaciones_v01\\Publicaciones_v01.csproj|d:\\descargas\\programacion 3\\lab 04\\c sharp\\conexion a bd\\publicaciones_v01\\publicaciones_v01\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017D7D4D-BAB2-4CE2-BFCE-3B252A0A50A0}|Publicaciones_v01\\Publicaciones_v01.csproj|solutionrelative:publicaciones_v01\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{017D7D4D-BAB2-4CE2-BFCE-3B252A0A50A0}|Publicaciones_v01\\Publicaciones_v01.csproj|d:\\descargas\\programacion 3\\lab 04\\c sharp\\conexion a bd\\publicaciones_v01\\publicaciones_v01\\clase_de_tesis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017D7D4D-BAB2-4CE2-BFCE-3B252A0A50A0}|Publicaciones_v01\\Publicaciones_v01.csproj|solutionrelative:publicaciones_v01\\clase_de_tesis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Principal.cs",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Lab 04\\C Sharp\\Conexion a BD\\Publicaciones_v01\\Publicaciones_v01\\Principal.cs",
+              "RelativeDocumentMoniker": "Publicaciones_v01\\Principal.cs",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Lab 04\\C Sharp\\Conexion a BD\\Publicaciones_v01\\Publicaciones_v01\\Principal.cs",
+              "RelativeToolTip": "Publicaciones_v01\\Principal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T01:06:29.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tesis.cs",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Lab 04\\C Sharp\\Conexion a BD\\Publicaciones_v01\\Publicaciones_v01\\Tesis.cs",
+              "RelativeDocumentMoniker": "Publicaciones_v01\\Tesis.cs",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Lab 04\\C Sharp\\Conexion a BD\\Publicaciones_v01\\Publicaciones_v01\\Tesis.cs",
+              "RelativeToolTip": "Publicaciones_v01\\Tesis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T01:06:17.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Lab 04\\C Sharp\\Conexion a BD\\Publicaciones_v01\\Publicaciones_v01\\Libro.cs",
+              "RelativeDocumentMoniker": "Publicaciones_v01\\Libro.cs",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Lab 04\\C Sharp\\Conexion a BD\\Publicaciones_v01\\Publicaciones_v01\\Libro.cs",
+              "RelativeToolTip": "Publicaciones_v01\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T01:06:11.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Lab 04\\C Sharp\\Conexion a BD\\Publicaciones_v01\\Publicaciones_v01\\Articulo.cs",
+              "RelativeDocumentMoniker": "Publicaciones_v01\\Articulo.cs",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Lab 04\\C Sharp\\Conexion a BD\\Publicaciones_v01\\Publicaciones_v01\\Articulo.cs",
+              "RelativeToolTip": "Publicaciones_v01\\Articulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T01:05:47.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Publicacion.cs",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Lab 04\\C Sharp\\Conexion a BD\\Publicaciones_v01\\Publicaciones_v01\\Publicacion.cs",
+              "RelativeDocumentMoniker": "Publicaciones_v01\\Publicacion.cs",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Lab 04\\C Sharp\\Conexion a BD\\Publicaciones_v01\\Publicaciones_v01\\Publicacion.cs",
+              "RelativeToolTip": "Publicaciones_v01\\Publicacion.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T01:02:21.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Lab 04\\C Sharp\\Conexion a BD\\Publicaciones_v01\\Publicaciones_v01\\Autor.cs",
+              "RelativeDocumentMoniker": "Publicaciones_v01\\Autor.cs",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Lab 04\\C Sharp\\Conexion a BD\\Publicaciones_v01\\Publicaciones_v01\\Autor.cs",
+              "RelativeToolTip": "Publicaciones_v01\\Autor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T01:02:22.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Clase_de_Tesis.cs",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Lab 04\\C Sharp\\Conexion a BD\\Publicaciones_v01\\Publicaciones_v01\\Clase_de_Tesis.cs",
+              "RelativeDocumentMoniker": "Publicaciones_v01\\Clase_de_Tesis.cs",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Lab 04\\C Sharp\\Conexion a BD\\Publicaciones_v01\\Publicaciones_v01\\Clase_de_Tesis.cs",
+              "RelativeToolTip": "Publicaciones_v01\\Clase_de_Tesis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T01:03:33.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
