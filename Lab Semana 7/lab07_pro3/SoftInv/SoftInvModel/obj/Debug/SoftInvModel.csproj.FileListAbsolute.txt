@@ -1,0 +1,6 @@
+C:\Users\cadcae\Downloads\lab07_pro3\SoftInv\SoftInvModel\bin\Debug\SoftInvModel.dll
+C:\Users\cadcae\Downloads\lab07_pro3\SoftInv\SoftInvModel\bin\Debug\SoftInvModel.pdb
+C:\Users\cadcae\Downloads\lab07_pro3\SoftInv\SoftInvModel\obj\Debug\SoftInvModel.csproj.AssemblyReference.cache
+C:\Users\cadcae\Downloads\lab07_pro3\SoftInv\SoftInvModel\obj\Debug\SoftInvModel.csproj.CoreCompileInputs.cache
+C:\Users\cadcae\Downloads\lab07_pro3\SoftInv\SoftInvModel\obj\Debug\SoftInvModel.dll
+C:\Users\cadcae\Downloads\lab07_pro3\SoftInv\SoftInvModel\obj\Debug\SoftInvModel.pdb
