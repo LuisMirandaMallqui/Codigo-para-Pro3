@@ -18,24 +18,32 @@ namespace SoftInvModel
 
         public VideojuegosDTO()
         {
-            this.idVideojuego = null;
-            this.genero = null;
-            this.categoria = null;
-            this.nombreVideojuego = null;
-            this.fechaLanzamiento = null;
-            this.precioAproxMercado = null;
-            this.numJugadoresMc = null;
+            this.IdVideojuego = null;
+            this.Genero = null;
+            this.Categoria = null;
+            this.NombreVideojuego = null;
+            this.FechaLanzamiento = null;
+            this.PrecioAproxMercado = null;
+            this.NumJugadoresMc = null;
         }
 
         public VideojuegosDTO(int? idVideojuego, GenerosDTO genero, CategoriasDTO categoria, string nombreVideojuego, DateTime? fechaLanzamiento, double? precioAproxMercado, int? numJugadoresMc)
         {
-            this.idVideojuego = idVideojuego;
-            this.genero = genero;
-            this.categoria = categoria;
-            this.nombreVideojuego = nombreVideojuego;
-            this.fechaLanzamiento = fechaLanzamiento;
-            this.precioAproxMercado = precioAproxMercado;
-            this.numJugadoresMc = numJugadoresMc;
+            this.IdVideojuego = idVideojuego;
+            this.Genero = genero;
+            this.Categoria = categoria;
+            this.NombreVideojuego = nombreVideojuego;
+            this.FechaLanzamiento = fechaLanzamiento;
+            this.PrecioAproxMercado = precioAproxMercado;
+            this.NumJugadoresMc = numJugadoresMc;
         }
+
+        public int? IdVideojuego { get => idVideojuego; set => idVideojuego = value; }
+        public GenerosDTO Genero { get => genero; set => genero = value; }
+        public CategoriasDTO Categoria { get => categoria; set => categoria = value; }
+        public string NombreVideojuego { get => nombreVideojuego; set => nombreVideojuego = value; }
+        public DateTime? FechaLanzamiento { get => fechaLanzamiento; set => fechaLanzamiento = value; }
+        public double? PrecioAproxMercado { get => precioAproxMercado; set => precioAproxMercado = value; }
+        public int? NumJugadoresMc { get => numJugadoresMc; set => numJugadoresMc = value; }
     }
 }

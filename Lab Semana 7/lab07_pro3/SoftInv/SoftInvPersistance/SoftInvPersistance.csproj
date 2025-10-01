@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{83BC5151-FD63-4907-A7C0-EE42188642D4}</ProjectGuid>
+    <ProjectGuid>{AB315500-8DAE-4D36-9234-FD17C9ABFA61}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>SoftInvPersistance</RootNamespace>
@@ -41,19 +41,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DAOImpl\DAOImplBase.cs" />
+    <Compile Include="DAOImpl\Util\Columna.cs" />
+    <Compile Include="DAOImpl\Util\TipoOperacionDML.cs" />
+    <Compile Include="DAOImpl\VideojuegoDAOImpl.cs" />
     <Compile Include="DAO\VideojuegoDAO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
-    <Folder Include="DAOImpl\Util\" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\SoftInvDBManager\SoftInvDBManager.csproj">
-      <Project>{3336a2f0-9fea-4882-84ed-23706e0714b1}</Project>
-      <Name>SoftInvDBManager</Name>
+    <ProjectReference Include="..\SoftInvBDManager\SoftInvBDManager.csproj">
+      <Project>{7DD3642C-28D6-4B89-ABC5-E1AB4E28817B}</Project>
+      <Name>SoftInvBDManager</Name>
     </ProjectReference>
     <ProjectReference Include="..\SoftInvModel\SoftInvModel.csproj">
-      <Project>{409c4d00-cf58-4c9f-be5b-d7ed727a9b47}</Project>
+      <Project>{E79EC096-97F0-4671-8835-8BC9BFB39B28}</Project>
       <Name>SoftInvModel</Name>
     </ProjectReference>
   </ItemGroup>

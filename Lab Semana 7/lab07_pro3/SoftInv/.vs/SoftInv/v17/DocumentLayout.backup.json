@@ -1,10 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\cadcae\\Downloads\\lab07_pro3\\SoftInv\\",
+  "WorkspaceRootPath": "D:\\Documentos\\GitHub\\Codigo-para-Pro3\\Lab Semana 7\\lab07_pro3\\SoftInv\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83BC5151-FD63-4907-A7C0-EE42188642D4}|SoftInvPersistance\\SoftInvPersistance.csproj|c:\\users\\cadcae\\downloads\\lab07_pro3\\softinv\\softinvpersistance\\dao\\videojuegodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83BC5151-FD63-4907-A7C0-EE42188642D4}|SoftInvPersistance\\SoftInvPersistance.csproj|solutionrelative:softinvpersistance\\dao\\videojuegodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0370F879-3315-43C6-8DBC-13E8CD403E3D}|SoftInvBusiness\\SoftInvBusiness.csproj|d:\\documentos\\github\\codigo-para-pro3\\lab semana 7\\lab07_pro3\\softinv\\softinvbusiness\\videojuegobo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0370F879-3315-43C6-8DBC-13E8CD403E3D}|SoftInvBusiness\\SoftInvBusiness.csproj|solutionrelative:softinvbusiness\\videojuegobo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB315500-8DAE-4D36-9234-FD17C9ABFA61}|SoftInvPersistance\\SoftInvPersistance.csproj|d:\\documentos\\github\\codigo-para-pro3\\lab semana 7\\lab07_pro3\\softinv\\softinvpersistance\\daoimpl\\videojuegodaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB315500-8DAE-4D36-9234-FD17C9ABFA61}|SoftInvPersistance\\SoftInvPersistance.csproj|solutionrelative:softinvpersistance\\daoimpl\\videojuegodaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB315500-8DAE-4D36-9234-FD17C9ABFA61}|SoftInvPersistance\\SoftInvPersistance.csproj|d:\\documentos\\github\\codigo-para-pro3\\lab semana 7\\lab07_pro3\\softinv\\softinvpersistance\\daoimpl\\daoimplbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB315500-8DAE-4D36-9234-FD17C9ABFA61}|SoftInvPersistance\\SoftInvPersistance.csproj|solutionrelative:softinvpersistance\\daoimpl\\daoimplbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79EC096-97F0-4671-8835-8BC9BFB39B28}|SoftInvModel\\SoftInvModel.csproj|D:\\Documentos\\GitHub\\Codigo-para-Pro3\\Lab Semana 7\\lab07_pro3\\SoftInv\\softinvmodel\\videojuegosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79EC096-97F0-4671-8835-8BC9BFB39B28}|SoftInvModel\\SoftInvModel.csproj|solutionrelative:softinvmodel\\videojuegosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79EC096-97F0-4671-8835-8BC9BFB39B28}|SoftInvModel\\SoftInvModel.csproj|d:\\documentos\\github\\codigo-para-pro3\\lab semana 7\\lab07_pro3\\softinv\\softinvmodel\\categoriasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79EC096-97F0-4671-8835-8BC9BFB39B28}|SoftInvModel\\SoftInvModel.csproj|solutionrelative:softinvmodel\\categoriasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79EC096-97F0-4671-8835-8BC9BFB39B28}|SoftInvModel\\SoftInvModel.csproj|d:\\documentos\\github\\codigo-para-pro3\\lab semana 7\\lab07_pro3\\softinv\\softinvmodel\\generosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79EC096-97F0-4671-8835-8BC9BFB39B28}|SoftInvModel\\SoftInvModel.csproj|solutionrelative:softinvmodel\\generosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB315500-8DAE-4D36-9234-FD17C9ABFA61}|SoftInvPersistance\\SoftInvPersistance.csproj|d:\\documentos\\github\\codigo-para-pro3\\lab semana 7\\lab07_pro3\\softinv\\softinvpersistance\\daoimpl\\util\\tipooperaciondml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB315500-8DAE-4D36-9234-FD17C9ABFA61}|SoftInvPersistance\\SoftInvPersistance.csproj|solutionrelative:softinvpersistance\\daoimpl\\util\\tipooperaciondml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB315500-8DAE-4D36-9234-FD17C9ABFA61}|SoftInvPersistance\\SoftInvPersistance.csproj|d:\\documentos\\github\\codigo-para-pro3\\lab semana 7\\lab07_pro3\\softinv\\softinvpersistance\\daoimpl\\util\\columna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB315500-8DAE-4D36-9234-FD17C9ABFA61}|SoftInvPersistance\\SoftInvPersistance.csproj|solutionrelative:softinvpersistance\\daoimpl\\util\\columna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB315500-8DAE-4D36-9234-FD17C9ABFA61}|SoftInvPersistance\\SoftInvPersistance.csproj|d:\\documentos\\github\\codigo-para-pro3\\lab semana 7\\lab07_pro3\\softinv\\softinvpersistance\\dao\\videojuegodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB315500-8DAE-4D36-9234-FD17C9ABFA61}|SoftInvPersistance\\SoftInvPersistance.csproj|solutionrelative:softinvpersistance\\dao\\videojuegodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA748E3E-8F43-4589-9373-270C69B42CB2}|SoftInvTest\\SoftInvTest.csproj|D:\\Documentos\\GitHub\\Codigo-para-Pro3\\Lab Semana 7\\lab07_pro3\\SoftInv\\softinvtest\\dbmanagertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA748E3E-8F43-4589-9373-270C69B42CB2}|SoftInvTest\\SoftInvTest.csproj|solutionrelative:softinvtest\\dbmanagertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA748E3E-8F43-4589-9373-270C69B42CB2}|SoftInvTest\\SoftInvTest.csproj|D:\\Documentos\\GitHub\\Codigo-para-Pro3\\Lab Semana 7\\lab07_pro3\\SoftInv\\softinvtest\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BA748E3E-8F43-4589-9373-270C69B42CB2}|SoftInvTest\\SoftInvTest.csproj|solutionrelative:softinvtest\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA748E3E-8F43-4589-9373-270C69B42CB2}|SoftInvTest\\SoftInvTest.csproj|D:\\Documentos\\GitHub\\Codigo-para-Pro3\\Lab Semana 7\\lab07_pro3\\SoftInv\\softinvtest\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BA748E3E-8F43-4589-9373-270C69B42CB2}|SoftInvTest\\SoftInvTest.csproj|solutionrelative:softinvtest\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD3642C-28D6-4B89-ABC5-E1AB4E28817B}|SoftInvBDManager\\SoftInvBDManager.csproj|D:\\Documentos\\GitHub\\Codigo-para-Pro3\\Lab Semana 7\\lab07_pro3\\SoftInv\\softinvbdmanager\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7DD3642C-28D6-4B89-ABC5-E1AB4E28817B}|SoftInvBDManager\\SoftInvBDManager.csproj|solutionrelative:softinvbdmanager\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD3642C-28D6-4B89-ABC5-E1AB4E28817B}|SoftInvBDManager\\SoftInvBDManager.csproj|D:\\Documentos\\GitHub\\Codigo-para-Pro3\\Lab Semana 7\\lab07_pro3\\SoftInv\\softinvbdmanager\\dbmanagermysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD3642C-28D6-4B89-ABC5-E1AB4E28817B}|SoftInvBDManager\\SoftInvBDManager.csproj|solutionrelative:softinvbdmanager\\dbmanagermysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD3642C-28D6-4B89-ABC5-E1AB4E28817B}|SoftInvBDManager\\SoftInvBDManager.csproj|D:\\Documentos\\GitHub\\Codigo-para-Pro3\\Lab Semana 7\\lab07_pro3\\SoftInv\\softinvbdmanager\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD3642C-28D6-4B89-ABC5-E1AB4E28817B}|SoftInvBDManager\\SoftInvBDManager.csproj|solutionrelative:softinvbdmanager\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +75,191 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "VideojuegoDAO.cs",
-              "DocumentMoniker": "C:\\Users\\cadcae\\Downloads\\lab07_pro3\\SoftInv\\SoftInvPersistance\\DAO\\VideojuegoDAO.cs",
-              "RelativeDocumentMoniker": "SoftInvPersistance\\DAO\\VideojuegoDAO.cs",
-              "ToolTip": "C:\\Users\\cadcae\\Downloads\\lab07_pro3\\SoftInv\\SoftInvPersistance\\DAO\\VideojuegoDAO.cs",
-              "RelativeToolTip": "SoftInvPersistance\\DAO\\VideojuegoDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "Title": "VideojuegoBO.cs",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\Codigo-para-Pro3\\Lab Semana 7\\lab07_pro3\\SoftInv\\SoftInvBusiness\\VideojuegoBO.cs",
+              "RelativeDocumentMoniker": "SoftInvBusiness\\VideojuegoBO.cs",
+              "ToolTip": "D:\\Documentos\\GitHub\\Codigo-para-Pro3\\Lab Semana 7\\lab07_pro3\\SoftInv\\SoftInvBusiness\\VideojuegoBO.cs",
+              "RelativeToolTip": "SoftInvBusiness\\VideojuegoBO.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACUAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T22:03:51.652Z",
+              "WhenOpened": "2025-10-01T01:12:24.382Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VideojuegosDTO.cs",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\Codigo-para-Pro3\\Lab Semana 7\\lab07_pro3\\SoftInv\\SoftInvModel\\VideojuegosDTO.cs",
+              "RelativeDocumentMoniker": "SoftInvModel\\VideojuegosDTO.cs",
+              "ToolTip": "D:\\Documentos\\GitHub\\Codigo-para-Pro3\\Lab Semana 7\\lab07_pro3\\SoftInv\\SoftInvModel\\VideojuegosDTO.cs",
+              "RelativeToolTip": "SoftInvModel\\VideojuegosDTO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA5wCUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T23:40:36.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DAOImplBase.cs",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\Codigo-para-Pro3\\Lab Semana 7\\lab07_pro3\\SoftInv\\SoftInvPersistance\\DAOImpl\\DAOImplBase.cs",
+              "RelativeDocumentMoniker": "SoftInvPersistance\\DAOImpl\\DAOImplBase.cs",
+              "ToolTip": "D:\\Documentos\\GitHub\\Codigo-para-Pro3\\Lab Semana 7\\lab07_pro3\\SoftInv\\SoftInvPersistance\\DAOImpl\\DAOImplBase.cs",
+              "RelativeToolTip": "SoftInvPersistance\\DAOImpl\\DAOImplBase.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwJ8BAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T00:14:35.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VideojuegoDAOImpl.cs",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\Codigo-para-Pro3\\Lab Semana 7\\lab07_pro3\\SoftInv\\SoftInvPersistance\\DAOImpl\\VideojuegoDAOImpl.cs",
+              "RelativeDocumentMoniker": "SoftInvPersistance\\DAOImpl\\VideojuegoDAOImpl.cs",
+              "ToolTip": "D:\\Documentos\\GitHub\\Codigo-para-Pro3\\Lab Semana 7\\lab07_pro3\\SoftInv\\SoftInvPersistance\\DAOImpl\\VideojuegoDAOImpl.cs",
+              "RelativeToolTip": "SoftInvPersistance\\DAOImpl\\VideojuegoDAOImpl.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwFEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T00:17:38.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriasDTO.cs",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\Codigo-para-Pro3\\Lab Semana 7\\lab07_pro3\\SoftInv\\SoftInvModel\\CategoriasDTO.cs",
+              "RelativeDocumentMoniker": "SoftInvModel\\CategoriasDTO.cs",
+              "ToolTip": "D:\\Documentos\\GitHub\\Codigo-para-Pro3\\Lab Semana 7\\lab07_pro3\\SoftInv\\SoftInvModel\\CategoriasDTO.cs",
+              "RelativeToolTip": "SoftInvModel\\CategoriasDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T01:06:36.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenerosDTO.cs",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\Codigo-para-Pro3\\Lab Semana 7\\lab07_pro3\\SoftInv\\SoftInvModel\\GenerosDTO.cs",
+              "RelativeDocumentMoniker": "SoftInvModel\\GenerosDTO.cs",
+              "ToolTip": "D:\\Documentos\\GitHub\\Codigo-para-Pro3\\Lab Semana 7\\lab07_pro3\\SoftInv\\SoftInvModel\\GenerosDTO.cs",
+              "RelativeToolTip": "SoftInvModel\\GenerosDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T01:06:28.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TipoOperacionDML.cs",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\Codigo-para-Pro3\\Lab Semana 7\\lab07_pro3\\SoftInv\\SoftInvPersistance\\DAOImpl\\Util\\TipoOperacionDML.cs",
+              "RelativeDocumentMoniker": "SoftInvPersistance\\DAOImpl\\Util\\TipoOperacionDML.cs",
+              "ToolTip": "D:\\Documentos\\GitHub\\Codigo-para-Pro3\\Lab Semana 7\\lab07_pro3\\SoftInv\\SoftInvPersistance\\DAOImpl\\Util\\TipoOperacionDML.cs",
+              "RelativeToolTip": "SoftInvPersistance\\DAOImpl\\Util\\TipoOperacionDML.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T00:15:42.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Columna.cs",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\Codigo-para-Pro3\\Lab Semana 7\\lab07_pro3\\SoftInv\\SoftInvPersistance\\DAOImpl\\Util\\Columna.cs",
+              "RelativeDocumentMoniker": "SoftInvPersistance\\DAOImpl\\Util\\Columna.cs",
+              "ToolTip": "D:\\Documentos\\GitHub\\Codigo-para-Pro3\\Lab Semana 7\\lab07_pro3\\SoftInv\\SoftInvPersistance\\DAOImpl\\Util\\Columna.cs",
+              "RelativeToolTip": "SoftInvPersistance\\DAOImpl\\Util\\Columna.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T00:15:05.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VideojuegoDAO.cs",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\Codigo-para-Pro3\\Lab Semana 7\\lab07_pro3\\SoftInv\\SoftInvPersistance\\DAO\\VideojuegoDAO.cs",
+              "RelativeDocumentMoniker": "SoftInvPersistance\\DAO\\VideojuegoDAO.cs",
+              "ToolTip": "D:\\Documentos\\GitHub\\Codigo-para-Pro3\\Lab Semana 7\\lab07_pro3\\SoftInv\\SoftInvPersistance\\DAO\\VideojuegoDAO.cs",
+              "RelativeToolTip": "SoftInvPersistance\\DAO\\VideojuegoDAO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T23:44:46.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\Codigo-para-Pro3\\Lab Semana 7\\lab07_pro3\\SoftInv\\SoftInvTest\\App.config",
+              "RelativeDocumentMoniker": "SoftInvTest\\App.config",
+              "ToolTip": "D:\\Documentos\\GitHub\\Codigo-para-Pro3\\Lab Semana 7\\lab07_pro3\\SoftInv\\SoftInvTest\\App.config",
+              "RelativeToolTip": "SoftInvTest\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-30T23:36:10.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\Codigo-para-Pro3\\Lab Semana 7\\lab07_pro3\\SoftInv\\SoftInvTest\\packages.config",
+              "RelativeDocumentMoniker": "SoftInvTest\\packages.config",
+              "ToolTip": "D:\\Documentos\\GitHub\\Codigo-para-Pro3\\Lab Semana 7\\lab07_pro3\\SoftInv\\SoftInvTest\\packages.config",
+              "RelativeToolTip": "SoftInvTest\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-30T23:34:52.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DBManagerTest.cs",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\Codigo-para-Pro3\\Lab Semana 7\\lab07_pro3\\SoftInv\\SoftInvTest\\DBManagerTest.cs",
+              "RelativeDocumentMoniker": "SoftInvTest\\DBManagerTest.cs",
+              "ToolTip": "D:\\Documentos\\GitHub\\Codigo-para-Pro3\\Lab Semana 7\\lab07_pro3\\SoftInv\\SoftInvTest\\DBManagerTest.cs",
+              "RelativeToolTip": "SoftInvTest\\DBManagerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T23:34:10.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "app.config",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\Codigo-para-Pro3\\Lab Semana 7\\lab07_pro3\\SoftInv\\SoftInvBDManager\\app.config",
+              "RelativeDocumentMoniker": "SoftInvBDManager\\app.config",
+              "ToolTip": "D:\\Documentos\\GitHub\\Codigo-para-Pro3\\Lab Semana 7\\lab07_pro3\\SoftInv\\SoftInvBDManager\\app.config",
+              "RelativeToolTip": "SoftInvBDManager\\app.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-30T23:18:26.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DBManagerMySQL.cs",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\Codigo-para-Pro3\\Lab Semana 7\\lab07_pro3\\SoftInv\\SoftInvBDManager\\DBManagerMySQL.cs",
+              "RelativeDocumentMoniker": "SoftInvBDManager\\DBManagerMySQL.cs",
+              "ToolTip": "D:\\Documentos\\GitHub\\Codigo-para-Pro3\\Lab Semana 7\\lab07_pro3\\SoftInv\\SoftInvBDManager\\DBManagerMySQL.cs",
+              "RelativeToolTip": "SoftInvBDManager\\DBManagerMySQL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T23:15:42.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DBManager.cs",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\Codigo-para-Pro3\\Lab Semana 7\\lab07_pro3\\SoftInv\\SoftInvBDManager\\DBManager.cs",
+              "RelativeDocumentMoniker": "SoftInvBDManager\\DBManager.cs",
+              "ToolTip": "D:\\Documentos\\GitHub\\Codigo-para-Pro3\\Lab Semana 7\\lab07_pro3\\SoftInv\\SoftInvBDManager\\DBManager.cs",
+              "RelativeToolTip": "SoftInvBDManager\\DBManager.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAA3wEAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T23:14:47.524Z"
             }
           ]
         }

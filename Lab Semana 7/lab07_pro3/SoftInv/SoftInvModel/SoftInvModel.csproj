@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{409C4D00-CF58-4C9F-BE5B-D7ED727A9B47}</ProjectGuid>
+    <ProjectGuid>{E79EC096-97F0-4671-8835-8BC9BFB39B28}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>SoftInvModel</RootNamespace>

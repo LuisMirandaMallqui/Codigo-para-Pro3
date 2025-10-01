@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("SoftInvModel")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("PUCP")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("SoftInvModel")]
-[assembly: AssemblyCopyright("Copyright © PUCP 2025")]
+[assembly: AssemblyCopyright("Copyright ©  2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // El siguiente GUID sirve como id. de typelib si este proyecto se expone a COM.
-[assembly: Guid("409c4d00-cf58-4c9f-be5b-d7ed727a9b47")]
+[assembly: Guid("e79ec096-97f0-4671-8835-8bc9bfb39b28")]
 
 // La información de versión de un ensamblado consta de los cuatro valores siguientes:
 //
