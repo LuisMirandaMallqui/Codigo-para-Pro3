@@ -1,0 +1,42 @@
+G:\Mi unidad\PUCP\Programacion3\Examenes\Examen Parcial 2025-1\ExamenParcial-P4\InfraccionesNegocio\bin\Debug\InfraccionesNegocio.dll
+G:\Mi unidad\PUCP\Programacion3\Examenes\Examen Parcial 2025-1\ExamenParcial-P4\InfraccionesNegocio\bin\Debug\InfraccionesNegocio.pdb
+G:\Mi unidad\PUCP\Programacion3\Examenes\Examen Parcial 2025-1\ExamenParcial-P4\InfraccionesNegocio\bin\Debug\InfraccionesDominio.dll
+G:\Mi unidad\PUCP\Programacion3\Examenes\Examen Parcial 2025-1\ExamenParcial-P4\InfraccionesNegocio\bin\Debug\InfraccionesPersistencia.dll
+G:\Mi unidad\PUCP\Programacion3\Examenes\Examen Parcial 2025-1\ExamenParcial-P4\InfraccionesNegocio\bin\Debug\MySql.Data.dll
+G:\Mi unidad\PUCP\Programacion3\Examenes\Examen Parcial 2025-1\ExamenParcial-P4\InfraccionesNegocio\bin\Debug\System.Memory.dll
+G:\Mi unidad\PUCP\Programacion3\Examenes\Examen Parcial 2025-1\ExamenParcial-P4\InfraccionesNegocio\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\Mi unidad\PUCP\Programacion3\Examenes\Examen Parcial 2025-1\ExamenParcial-P4\InfraccionesNegocio\bin\Debug\System.Numerics.Vectors.dll
+G:\Mi unidad\PUCP\Programacion3\Examenes\Examen Parcial 2025-1\ExamenParcial-P4\InfraccionesNegocio\bin\Debug\System.Buffers.dll
+G:\Mi unidad\PUCP\Programacion3\Examenes\Examen Parcial 2025-1\ExamenParcial-P4\InfraccionesNegocio\obj\Debug\InfraccionesNegocio.csproj.AssemblyReference.cache
+G:\Mi unidad\PUCP\Programacion3\Examenes\Examen Parcial 2025-1\ExamenParcial-P4\InfraccionesNegocio\obj\Debug\InfraccionesNegocio.csproj.CoreCompileInputs.cache
+G:\Mi unidad\PUCP\Programacion3\Examenes\Examen Parcial 2025-1\ExamenParcial-P4\InfraccionesNegocio\obj\Debug\Infracci.6023833A.Up2Date
+G:\Mi unidad\PUCP\Programacion3\Examenes\Examen Parcial 2025-1\ExamenParcial-P4\InfraccionesNegocio\obj\Debug\InfraccionesNegocio.dll
+G:\Mi unidad\PUCP\Programacion3\Examenes\Examen Parcial 2025-1\ExamenParcial-P4\InfraccionesNegocio\obj\Debug\InfraccionesNegocio.pdb
+T:\Examen Parcial - 1INF30 - 2025-1\Pregunta04\ExamenParcial-P4\InfraccionesNegocio\bin\Debug\InfraccionesNegocio.dll
+T:\Examen Parcial - 1INF30 - 2025-1\Pregunta04\ExamenParcial-P4\InfraccionesNegocio\bin\Debug\InfraccionesNegocio.pdb
+T:\Examen Parcial - 1INF30 - 2025-1\Pregunta04\ExamenParcial-P4\InfraccionesNegocio\bin\Debug\InfraccionesDominio.dll
+T:\Examen Parcial - 1INF30 - 2025-1\Pregunta04\ExamenParcial-P4\InfraccionesNegocio\bin\Debug\InfraccionesPersistencia.dll
+T:\Examen Parcial - 1INF30 - 2025-1\Pregunta04\ExamenParcial-P4\InfraccionesNegocio\bin\Debug\MySql.Data.dll
+T:\Examen Parcial - 1INF30 - 2025-1\Pregunta04\ExamenParcial-P4\InfraccionesNegocio\bin\Debug\System.Memory.dll
+T:\Examen Parcial - 1INF30 - 2025-1\Pregunta04\ExamenParcial-P4\InfraccionesNegocio\bin\Debug\System.Threading.Tasks.Extensions.dll
+T:\Examen Parcial - 1INF30 - 2025-1\Pregunta04\ExamenParcial-P4\InfraccionesNegocio\bin\Debug\System.Numerics.Vectors.dll
+T:\Examen Parcial - 1INF30 - 2025-1\Pregunta04\ExamenParcial-P4\InfraccionesNegocio\bin\Debug\System.Buffers.dll
+T:\Examen Parcial - 1INF30 - 2025-1\Pregunta04\ExamenParcial-P4\InfraccionesNegocio\obj\Debug\InfraccionesNegocio.csproj.AssemblyReference.cache
+T:\Examen Parcial - 1INF30 - 2025-1\Pregunta04\ExamenParcial-P4\InfraccionesNegocio\obj\Debug\InfraccionesNegocio.csproj.CoreCompileInputs.cache
+T:\Examen Parcial - 1INF30 - 2025-1\Pregunta04\ExamenParcial-P4\InfraccionesNegocio\obj\Debug\Infracci.6023833A.Up2Date
+T:\Examen Parcial - 1INF30 - 2025-1\Pregunta04\ExamenParcial-P4\InfraccionesNegocio\obj\Debug\InfraccionesNegocio.dll
+T:\Examen Parcial - 1INF30 - 2025-1\Pregunta04\ExamenParcial-P4\InfraccionesNegocio\obj\Debug\InfraccionesNegocio.pdb
+D:\Descargas\Programacion 3\Parcial (EX1)\ExamenParcial-P4\InfraccionesNegocio\bin\Debug\InfraccionesNegocio.dll
+D:\Descargas\Programacion 3\Parcial (EX1)\ExamenParcial-P4\InfraccionesNegocio\bin\Debug\InfraccionesNegocio.pdb
+D:\Descargas\Programacion 3\Parcial (EX1)\ExamenParcial-P4\InfraccionesNegocio\bin\Debug\InfraccionesDominio.dll
+D:\Descargas\Programacion 3\Parcial (EX1)\ExamenParcial-P4\InfraccionesNegocio\bin\Debug\InfraccionesPersistencia.dll
+D:\Descargas\Programacion 3\Parcial (EX1)\ExamenParcial-P4\InfraccionesNegocio\bin\Debug\MySql.Data.dll
+D:\Descargas\Programacion 3\Parcial (EX1)\ExamenParcial-P4\InfraccionesNegocio\bin\Debug\System.Memory.dll
+D:\Descargas\Programacion 3\Parcial (EX1)\ExamenParcial-P4\InfraccionesNegocio\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Descargas\Programacion 3\Parcial (EX1)\ExamenParcial-P4\InfraccionesNegocio\bin\Debug\System.Numerics.Vectors.dll
+D:\Descargas\Programacion 3\Parcial (EX1)\ExamenParcial-P4\InfraccionesNegocio\bin\Debug\System.Buffers.dll
+D:\Descargas\Programacion 3\Parcial (EX1)\ExamenParcial-P4\InfraccionesNegocio\obj\Debug\InfraccionesNegocio.csproj.AssemblyReference.cache
+D:\Descargas\Programacion 3\Parcial (EX1)\ExamenParcial-P4\InfraccionesNegocio\obj\Debug\InfraccionesNegocio.csproj.CoreCompileInputs.cache
+D:\Descargas\Programacion 3\Parcial (EX1)\ExamenParcial-P4\InfraccionesNegocio\obj\Debug\Infracci.6023833A.Up2Date
+D:\Descargas\Programacion 3\Parcial (EX1)\ExamenParcial-P4\InfraccionesNegocio\obj\Debug\InfraccionesNegocio.dll
+D:\Descargas\Programacion 3\Parcial (EX1)\ExamenParcial-P4\InfraccionesNegocio\obj\Debug\InfraccionesNegocio.pdb

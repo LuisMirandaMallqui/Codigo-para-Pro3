@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\ExamenParcial-P4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E11395C5-EA69-4415-A53E-328D2282A4CF}|InfraccionesPresentacion\\InfraccionesPresentacion.csproj|D:\\Descargas\\Programacion 3\\Parcial (EX1)\\ExamenParcial-P4\\InfraccionesPresentacion\\MainLayout.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{E11395C5-EA69-4415-A53E-328D2282A4CF}|InfraccionesPresentacion\\InfraccionesPresentacion.csproj|solutionrelative:InfraccionesPresentacion\\MainLayout.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E11395C5-EA69-4415-A53E-328D2282A4CF}|InfraccionesPresentacion\\InfraccionesPresentacion.csproj|D:\\Descargas\\Programacion 3\\Parcial (EX1)\\ExamenParcial-P4\\InfraccionesPresentacion\\Views\\ListaInfracciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E11395C5-EA69-4415-A53E-328D2282A4CF}|InfraccionesPresentacion\\InfraccionesPresentacion.csproj|solutionrelative:InfraccionesPresentacion\\Views\\ListaInfracciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E11395C5-EA69-4415-A53E-328D2282A4CF}|InfraccionesPresentacion\\InfraccionesPresentacion.csproj|D:\\Descargas\\Programacion 3\\Parcial (EX1)\\ExamenParcial-P4\\infraccionespresentacion\\views\\registroinfracciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E11395C5-EA69-4415-A53E-328D2282A4CF}|InfraccionesPresentacion\\InfraccionesPresentacion.csproj|solutionrelative:infraccionespresentacion\\views\\registroinfracciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E11395C5-EA69-4415-A53E-328D2282A4CF}|InfraccionesPresentacion\\InfraccionesPresentacion.csproj|d:\\descargas\\programacion 3\\parcial (ex1)\\examenparcial-p4\\infraccionespresentacion\\views\\registroinfracciones.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E11395C5-EA69-4415-A53E-328D2282A4CF}|InfraccionesPresentacion\\InfraccionesPresentacion.csproj|solutionrelative:infraccionespresentacion\\views\\registroinfracciones.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E11395C5-EA69-4415-A53E-328D2282A4CF}|InfraccionesPresentacion\\InfraccionesPresentacion.csproj|D:\\Descargas\\Programacion 3\\Parcial (EX1)\\ExamenParcial-P4\\InfraccionesPresentacion\\Views\\ListaInfracciones.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E11395C5-EA69-4415-A53E-328D2282A4CF}|InfraccionesPresentacion\\InfraccionesPresentacion.csproj|solutionrelative:InfraccionesPresentacion\\Views\\ListaInfracciones.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E11395C5-EA69-4415-A53E-328D2282A4CF}|InfraccionesPresentacion\\InfraccionesPresentacion.csproj|D:\\Descargas\\Programacion 3\\Parcial (EX1)\\ExamenParcial-P4\\InfraccionesPresentacion\\Views\\RegistroInfracciones.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E11395C5-EA69-4415-A53E-328D2282A4CF}|InfraccionesPresentacion\\InfraccionesPresentacion.csproj|solutionrelative:InfraccionesPresentacion\\Views\\RegistroInfracciones.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E11395C5-EA69-4415-A53E-328D2282A4CF}|InfraccionesPresentacion\\InfraccionesPresentacion.csproj|D:\\Descargas\\Programacion 3\\Parcial (EX1)\\ExamenParcial-P4\\InfraccionesPresentacion\\Views\\ListaInfracciones.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E11395C5-EA69-4415-A53E-328D2282A4CF}|InfraccionesPresentacion\\InfraccionesPresentacion.csproj|solutionrelative:InfraccionesPresentacion\\Views\\ListaInfracciones.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A904589-3C55-41D5-A188-2C8B5C2CA033}|InfraccionesNegocio\\InfraccionesNegocio.csproj|D:\\Descargas\\Programacion 3\\Parcial (EX1)\\ExamenParcial-P4\\infraccionesnegocio\\vehiculobo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A904589-3C55-41D5-A188-2C8B5C2CA033}|InfraccionesNegocio\\InfraccionesNegocio.csproj|solutionrelative:infraccionesnegocio\\vehiculobo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A904589-3C55-41D5-A188-2C8B5C2CA033}|InfraccionesNegocio\\InfraccionesNegocio.csproj|D:\\Descargas\\Programacion 3\\Parcial (EX1)\\ExamenParcial-P4\\infraccionesnegocio\\conductorbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A904589-3C55-41D5-A188-2C8B5C2CA033}|InfraccionesNegocio\\InfraccionesNegocio.csproj|solutionrelative:infraccionesnegocio\\conductorbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E11395C5-EA69-4415-A53E-328D2282A4CF}|InfraccionesPresentacion\\InfraccionesPresentacion.csproj|D:\\Descargas\\Programacion 3\\Parcial (EX1)\\ExamenParcial-P4\\InfraccionesPresentacion\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E11395C5-EA69-4415-A53E-328D2282A4CF}|InfraccionesPresentacion\\InfraccionesPresentacion.csproj|solutionrelative:InfraccionesPresentacion\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A904589-3C55-41D5-A188-2C8B5C2CA033}|InfraccionesNegocio\\InfraccionesNegocio.csproj|D:\\Descargas\\Programacion 3\\Parcial (EX1)\\ExamenParcial-P4\\infraccionesnegocio\\infraccionbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A904589-3C55-41D5-A188-2C8B5C2CA033}|InfraccionesNegocio\\InfraccionesNegocio.csproj|solutionrelative:infraccionesnegocio\\infraccionbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Mi unidad\\PUCP\\Programacion3\\Examenes\\Examen Parcial 2025-1\\ExamenParcial-P4\\ExamenParcial-P4\\Public\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E11395C5-EA69-4415-A53E-328D2282A4CF}|InfraccionesPresentacion\\InfraccionesPresentacion.csproj|D:\\Descargas\\Programacion 3\\Parcial (EX1)\\ExamenParcial-P4\\InfraccionesPresentacion\\Public\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E11395C5-EA69-4415-A53E-328D2282A4CF}|InfraccionesPresentacion\\InfraccionesPresentacion.csproj|solutionrelative:InfraccionesPresentacion\\Public\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListaInfracciones.aspx",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\ExamenParcial-P4\\InfraccionesPresentacion\\Views\\ListaInfracciones.aspx",
+              "RelativeDocumentMoniker": "InfraccionesPresentacion\\Views\\ListaInfracciones.aspx",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\ExamenParcial-P4\\InfraccionesPresentacion\\Views\\ListaInfracciones.aspx",
+              "RelativeToolTip": "InfraccionesPresentacion\\Views\\ListaInfracciones.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-20T14:10:05.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistroInfracciones.aspx",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\ExamenParcial-P4\\InfraccionesPresentacion\\Views\\RegistroInfracciones.aspx",
+              "RelativeDocumentMoniker": "InfraccionesPresentacion\\Views\\RegistroInfracciones.aspx",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\ExamenParcial-P4\\InfraccionesPresentacion\\Views\\RegistroInfracciones.aspx",
+              "RelativeToolTip": "InfraccionesPresentacion\\Views\\RegistroInfracciones.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-20T14:10:36.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainLayout.Master",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\ExamenParcial-P4\\InfraccionesPresentacion\\MainLayout.Master",
+              "RelativeDocumentMoniker": "InfraccionesPresentacion\\MainLayout.Master",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\ExamenParcial-P4\\InfraccionesPresentacion\\MainLayout.Master",
+              "RelativeToolTip": "InfraccionesPresentacion\\MainLayout.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-20T12:41:28.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistroInfracciones.aspx.cs",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\ExamenParcial-P4\\InfraccionesPresentacion\\Views\\RegistroInfracciones.aspx.cs",
+              "RelativeDocumentMoniker": "InfraccionesPresentacion\\Views\\RegistroInfracciones.aspx.cs",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\ExamenParcial-P4\\InfraccionesPresentacion\\Views\\RegistroInfracciones.aspx.cs",
+              "RelativeToolTip": "InfraccionesPresentacion\\Views\\RegistroInfracciones.aspx.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwDwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:23:56.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListaInfracciones.aspx.designer.cs",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\ExamenParcial-P4\\InfraccionesPresentacion\\Views\\ListaInfracciones.aspx.designer.cs",
+              "RelativeDocumentMoniker": "InfraccionesPresentacion\\Views\\ListaInfracciones.aspx.designer.cs",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\ExamenParcial-P4\\InfraccionesPresentacion\\Views\\ListaInfracciones.aspx.designer.cs",
+              "RelativeToolTip": "InfraccionesPresentacion\\Views\\ListaInfracciones.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:23:40.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistroInfracciones.aspx.designer.cs",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\ExamenParcial-P4\\InfraccionesPresentacion\\Views\\RegistroInfracciones.aspx.designer.cs",
+              "RelativeDocumentMoniker": "InfraccionesPresentacion\\Views\\RegistroInfracciones.aspx.designer.cs",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\ExamenParcial-P4\\InfraccionesPresentacion\\Views\\RegistroInfracciones.aspx.designer.cs",
+              "RelativeToolTip": "InfraccionesPresentacion\\Views\\RegistroInfracciones.aspx.designer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T16:55:40.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConductorBO.cs",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\ExamenParcial-P4\\InfraccionesNegocio\\ConductorBO.cs",
+              "RelativeDocumentMoniker": "InfraccionesNegocio\\ConductorBO.cs",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\ExamenParcial-P4\\InfraccionesNegocio\\ConductorBO.cs",
+              "RelativeToolTip": "InfraccionesNegocio\\ConductorBO.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAUwFsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T22:21:11.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListaInfracciones.aspx.cs",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\ExamenParcial-P4\\InfraccionesPresentacion\\Views\\ListaInfracciones.aspx.cs",
+              "RelativeDocumentMoniker": "InfraccionesPresentacion\\Views\\ListaInfracciones.aspx.cs",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\ExamenParcial-P4\\InfraccionesPresentacion\\Views\\ListaInfracciones.aspx.cs",
+              "RelativeToolTip": "InfraccionesPresentacion\\Views\\ListaInfracciones.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:21:23.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\ExamenParcial-P4\\InfraccionesPresentacion\\Web.config",
+              "RelativeDocumentMoniker": "InfraccionesPresentacion\\Web.config",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\ExamenParcial-P4\\InfraccionesPresentacion\\Web.config",
+              "RelativeToolTip": "InfraccionesPresentacion\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-20T13:20:25.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VehiculoBO.cs",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\ExamenParcial-P4\\InfraccionesNegocio\\VehiculoBO.cs",
+              "RelativeDocumentMoniker": "InfraccionesNegocio\\VehiculoBO.cs",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\ExamenParcial-P4\\InfraccionesNegocio\\VehiculoBO.cs",
+              "RelativeToolTip": "InfraccionesNegocio\\VehiculoBO.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAUwE4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:17:48.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InfraccionBO.cs",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\ExamenParcial-P4\\InfraccionesNegocio\\InfraccionBO.cs",
+              "RelativeDocumentMoniker": "InfraccionesNegocio\\InfraccionBO.cs",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\ExamenParcial-P4\\InfraccionesNegocio\\InfraccionBO.cs",
+              "RelativeToolTip": "InfraccionesNegocio\\InfraccionBO.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAwGgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T22:17:20.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\ExamenParcial-P4\\InfraccionesPresentacion\\Public\\css\\site.css",
+              "RelativeDocumentMoniker": "InfraccionesPresentacion\\Public\\css\\site.css",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\ExamenParcial-P4\\InfraccionesPresentacion\\Public\\css\\site.css",
+              "RelativeToolTip": "InfraccionesPresentacion\\Public\\css\\site.css",
+              "ViewState": "AgIAAD8AAAAAAAAAAIBZwF8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-20T14:27:32.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "site.css",
+              "DocumentMoniker": "G:\\Mi unidad\\PUCP\\Programacion3\\Examenes\\Examen Parcial 2025-1\\ExamenParcial-P4\\ExamenParcial-P4\\Public\\css\\site.css",
+              "ToolTip": "G:\\Mi unidad\\PUCP\\Programacion3\\Examenes\\Examen Parcial 2025-1\\ExamenParcial-P4\\ExamenParcial-P4\\Public\\css\\site.css",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-20T12:37:24.535Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

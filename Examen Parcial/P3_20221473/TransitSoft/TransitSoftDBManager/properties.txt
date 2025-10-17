@@ -1,0 +1,8 @@
+﻿host=dbpucp.ct6ff5ea4m0u.us-east-1.rds.amazonaws.com
+port=3306
+database=p3_parcial
+user=admin
+password=SXZhbm5hZmF0aW1hOTc4
+minPoolSize=5
+maxPoolSize=50
+connectionTimeout=30

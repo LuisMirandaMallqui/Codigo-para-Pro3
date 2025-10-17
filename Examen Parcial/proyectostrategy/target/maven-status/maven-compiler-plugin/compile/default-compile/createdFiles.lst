@@ -1,0 +1,13 @@
+pe\edu\pucp\softinv\proyectostrategy\modelo\TipoLicencia.class
+pe\edu\pucp\softinv\proyectostrategy\estrategia\Estrategia.class
+pe\edu\pucp\softinv\proyectostrategy\modelo\RegistroInfraccion.class
+pe\edu\pucp\softinv\proyectostrategy\modelo\Infraccion.class
+pe\edu\pucp\softinv\proyectostrategy\estrategia\Estrategia1.class
+pe\edu\pucp\softinv\proyectostrategy\contexto\Contexto.class
+pe\edu\pucp\softinv\proyectostrategy\estrategia\Estrategia2.class
+pe\edu\pucp\softinv\proyectostrategy\modelo\VehiculoConductor.class
+pe\edu\pucp\softinv\proyectostrategy\modelo\Vehiculo.class
+pe\edu\pucp\softinv\proyectostrategy\modelo\Conductor.class
+pe\edu\pucp\softinv\proyectostrategy\estrategia\Estrategia3.class
+pe\edu\pucp\softinv\proyectostrategy\Proyectostrategy.class
+pe\edu\pucp\softinv\proyectostrategy\modelo\Gravedad.class

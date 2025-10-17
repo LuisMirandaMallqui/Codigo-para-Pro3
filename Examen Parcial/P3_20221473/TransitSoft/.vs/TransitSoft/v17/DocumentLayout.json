@@ -1,0 +1,444 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{370F3256-BCB7-4389-8022-3065E6BFBB18}|TransitSoftDomain\\TransitSoftDomain.csproj|d:\\descargas\\programacion 3\\parcial (ex1)\\p3_20221473\\transitsoft\\transitsoftdomain\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370F3256-BCB7-4389-8022-3065E6BFBB18}|TransitSoftDomain\\TransitSoftDomain.csproj|solutionrelative:transitsoftdomain\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F3256-BCB7-4389-8022-3065E6BFBB18}|TransitSoftDomain\\TransitSoftDomain.csproj|d:\\descargas\\programacion 3\\parcial (ex1)\\p3_20221473\\transitsoft\\transitsoftdomain\\tipolicencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370F3256-BCB7-4389-8022-3065E6BFBB18}|TransitSoftDomain\\TransitSoftDomain.csproj|solutionrelative:transitsoftdomain\\tipolicencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F3256-BCB7-4389-8022-3065E6BFBB18}|TransitSoftDomain\\TransitSoftDomain.csproj|d:\\descargas\\programacion 3\\parcial (ex1)\\p3_20221473\\transitsoft\\transitsoftdomain\\reporteinfraccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370F3256-BCB7-4389-8022-3065E6BFBB18}|TransitSoftDomain\\TransitSoftDomain.csproj|solutionrelative:transitsoftdomain\\reporteinfraccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F3256-BCB7-4389-8022-3065E6BFBB18}|TransitSoftDomain\\TransitSoftDomain.csproj|d:\\descargas\\programacion 3\\parcial (ex1)\\p3_20221473\\transitsoft\\transitsoftdomain\\infraccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370F3256-BCB7-4389-8022-3065E6BFBB18}|TransitSoftDomain\\TransitSoftDomain.csproj|solutionrelative:transitsoftdomain\\infraccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F3256-BCB7-4389-8022-3065E6BFBB18}|TransitSoftDomain\\TransitSoftDomain.csproj|d:\\descargas\\programacion 3\\parcial (ex1)\\p3_20221473\\transitsoft\\transitsoftdomain\\conductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370F3256-BCB7-4389-8022-3065E6BFBB18}|TransitSoftDomain\\TransitSoftDomain.csproj|solutionrelative:transitsoftdomain\\conductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDB8C5B-4C1F-405B-8D66-067E8D2ADBAB}|TransitSoftDBManager\\TransitSoftDBManager.csproj|D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\transitsoftdbmanager\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDB8C5B-4C1F-405B-8D66-067E8D2ADBAB}|TransitSoftDBManager\\TransitSoftDBManager.csproj|solutionrelative:transitsoftdbmanager\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6503BB75-C626-46EC-B9ED-47E2F6235E3C}|TransitSoftBusiness\\TransitSoftBusiness.csproj|d:\\descargas\\programacion 3\\parcial (ex1)\\p3_20221473\\transitsoft\\transitsoftbusiness\\vehiculoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6503BB75-C626-46EC-B9ED-47E2F6235E3C}|TransitSoftBusiness\\TransitSoftBusiness.csproj|solutionrelative:transitsoftbusiness\\vehiculoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6503BB75-C626-46EC-B9ED-47E2F6235E3C}|TransitSoftBusiness\\TransitSoftBusiness.csproj|d:\\descargas\\programacion 3\\parcial (ex1)\\p3_20221473\\transitsoft\\transitsoftbusiness\\tipolicenciaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6503BB75-C626-46EC-B9ED-47E2F6235E3C}|TransitSoftBusiness\\TransitSoftBusiness.csproj|solutionrelative:transitsoftbusiness\\tipolicenciaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6503BB75-C626-46EC-B9ED-47E2F6235E3C}|TransitSoftBusiness\\TransitSoftBusiness.csproj|D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\transitsoftbusiness\\reporteinfraccionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6503BB75-C626-46EC-B9ED-47E2F6235E3C}|TransitSoftBusiness\\TransitSoftBusiness.csproj|solutionrelative:transitsoftbusiness\\reporteinfraccionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6503BB75-C626-46EC-B9ED-47E2F6235E3C}|TransitSoftBusiness\\TransitSoftBusiness.csproj|d:\\descargas\\programacion 3\\parcial (ex1)\\p3_20221473\\transitsoft\\transitsoftbusiness\\infraccionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6503BB75-C626-46EC-B9ED-47E2F6235E3C}|TransitSoftBusiness\\TransitSoftBusiness.csproj|solutionrelative:transitsoftbusiness\\infraccionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6503BB75-C626-46EC-B9ED-47E2F6235E3C}|TransitSoftBusiness\\TransitSoftBusiness.csproj|d:\\descargas\\programacion 3\\parcial (ex1)\\p3_20221473\\transitsoft\\transitsoftbusiness\\conductorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6503BB75-C626-46EC-B9ED-47E2F6235E3C}|TransitSoftBusiness\\TransitSoftBusiness.csproj|solutionrelative:transitsoftbusiness\\conductorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4A1A3D-CB17-42B9-8D7C-E01FC430128F}|TransitSoftPersistance\\TransitSoftPersistance.csproj|D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\transitsoftpersistance\\daoimpl\\conductordaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4A1A3D-CB17-42B9-8D7C-E01FC430128F}|TransitSoftPersistance\\TransitSoftPersistance.csproj|solutionrelative:transitsoftpersistance\\daoimpl\\conductordaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4A1A3D-CB17-42B9-8D7C-E01FC430128F}|TransitSoftPersistance\\TransitSoftPersistance.csproj|D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\transitsoftpersistance\\daoimpl\\reporteinfracciondaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4A1A3D-CB17-42B9-8D7C-E01FC430128F}|TransitSoftPersistance\\TransitSoftPersistance.csproj|solutionrelative:transitsoftpersistance\\daoimpl\\reporteinfracciondaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4A1A3D-CB17-42B9-8D7C-E01FC430128F}|TransitSoftPersistance\\TransitSoftPersistance.csproj|d:\\descargas\\programacion 3\\parcial (ex1)\\p3_20221473\\transitsoft\\transitsoftpersistance\\daoimpl\\vehiculodaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4A1A3D-CB17-42B9-8D7C-E01FC430128F}|TransitSoftPersistance\\TransitSoftPersistance.csproj|solutionrelative:transitsoftpersistance\\daoimpl\\vehiculodaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4A1A3D-CB17-42B9-8D7C-E01FC430128F}|TransitSoftPersistance\\TransitSoftPersistance.csproj|d:\\descargas\\programacion 3\\parcial (ex1)\\p3_20221473\\transitsoft\\transitsoftpersistance\\daoimpl\\tipolicenciadaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4A1A3D-CB17-42B9-8D7C-E01FC430128F}|TransitSoftPersistance\\TransitSoftPersistance.csproj|solutionrelative:transitsoftpersistance\\daoimpl\\tipolicenciadaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4A1A3D-CB17-42B9-8D7C-E01FC430128F}|TransitSoftPersistance\\TransitSoftPersistance.csproj|d:\\descargas\\programacion 3\\parcial (ex1)\\p3_20221473\\transitsoft\\transitsoftpersistance\\daoimpl\\infracciondaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4A1A3D-CB17-42B9-8D7C-E01FC430128F}|TransitSoftPersistance\\TransitSoftPersistance.csproj|solutionrelative:transitsoftpersistance\\daoimpl\\infracciondaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4A1A3D-CB17-42B9-8D7C-E01FC430128F}|TransitSoftPersistance\\TransitSoftPersistance.csproj|d:\\descargas\\programacion 3\\parcial (ex1)\\p3_20221473\\transitsoft\\transitsoftpersistance\\dao\\vehiculodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4A1A3D-CB17-42B9-8D7C-E01FC430128F}|TransitSoftPersistance\\TransitSoftPersistance.csproj|solutionrelative:transitsoftpersistance\\dao\\vehiculodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4A1A3D-CB17-42B9-8D7C-E01FC430128F}|TransitSoftPersistance\\TransitSoftPersistance.csproj|d:\\descargas\\programacion 3\\parcial (ex1)\\p3_20221473\\transitsoft\\transitsoftpersistance\\dao\\reporteinfracciondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4A1A3D-CB17-42B9-8D7C-E01FC430128F}|TransitSoftPersistance\\TransitSoftPersistance.csproj|solutionrelative:transitsoftpersistance\\dao\\reporteinfracciondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4A1A3D-CB17-42B9-8D7C-E01FC430128F}|TransitSoftPersistance\\TransitSoftPersistance.csproj|d:\\descargas\\programacion 3\\parcial (ex1)\\p3_20221473\\transitsoft\\transitsoftpersistance\\dao\\tipolicenciadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4A1A3D-CB17-42B9-8D7C-E01FC430128F}|TransitSoftPersistance\\TransitSoftPersistance.csproj|solutionrelative:transitsoftpersistance\\dao\\tipolicenciadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4A1A3D-CB17-42B9-8D7C-E01FC430128F}|TransitSoftPersistance\\TransitSoftPersistance.csproj|d:\\descargas\\programacion 3\\parcial (ex1)\\p3_20221473\\transitsoft\\transitsoftpersistance\\dao\\infraccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4A1A3D-CB17-42B9-8D7C-E01FC430128F}|TransitSoftPersistance\\TransitSoftPersistance.csproj|solutionrelative:transitsoftpersistance\\dao\\infraccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4A1A3D-CB17-42B9-8D7C-E01FC430128F}|TransitSoftPersistance\\TransitSoftPersistance.csproj|d:\\descargas\\programacion 3\\parcial (ex1)\\p3_20221473\\transitsoft\\transitsoftpersistance\\dao\\conductordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4A1A3D-CB17-42B9-8D7C-E01FC430128F}|TransitSoftPersistance\\TransitSoftPersistance.csproj|solutionrelative:transitsoftpersistance\\dao\\conductordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDB8C5B-4C1F-405B-8D66-067E8D2ADBAB}|TransitSoftDBManager\\TransitSoftDBManager.csproj|D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\transitsoftdbmanager\\properties.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7EDB8C5B-4C1F-405B-8D66-067E8D2ADBAB}|TransitSoftDBManager\\TransitSoftDBManager.csproj|solutionrelative:transitsoftdbmanager\\properties.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDB8C5B-4C1F-405B-8D66-067E8D2ADBAB}|TransitSoftDBManager\\TransitSoftDBManager.csproj|d:\\descargas\\programacion 3\\parcial (ex1)\\p3_20221473\\transitsoft\\transitsoftdbmanager\\propiedades.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7EDB8C5B-4C1F-405B-8D66-067E8D2ADBAB}|TransitSoftDBManager\\TransitSoftDBManager.csproj|solutionrelative:transitsoftdbmanager\\propiedades.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6FA673-FC23-4A68-AE09-D503211512DE}|TransitSoft\\TransitSoft.csproj|d:\\descargas\\programacion 3\\parcial (ex1)\\p3_20221473\\transitsoft\\transitsoft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E6FA673-FC23-4A68-AE09-D503211512DE}|TransitSoft\\TransitSoft.csproj|solutionrelative:transitsoft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6FA673-FC23-4A68-AE09-D503211512DE}|TransitSoft\\TransitSoft.csproj|D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\transitsoft\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4E6FA673-FC23-4A68-AE09-D503211512DE}|TransitSoft\\TransitSoft.csproj|solutionrelative:transitsoft\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VehiculoService.cs",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftBusiness\\VehiculoService.cs",
+              "RelativeDocumentMoniker": "TransitSoftBusiness\\VehiculoService.cs",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftBusiness\\VehiculoService.cs",
+              "RelativeToolTip": "TransitSoftBusiness\\VehiculoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T18:04:33.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TipoLicenciaService.cs",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftBusiness\\TipoLicenciaService.cs",
+              "RelativeDocumentMoniker": "TransitSoftBusiness\\TipoLicenciaService.cs",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftBusiness\\TipoLicenciaService.cs",
+              "RelativeToolTip": "TransitSoftBusiness\\TipoLicenciaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T18:04:29.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DBManager.cs",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftDBManager\\DBManager.cs",
+              "RelativeDocumentMoniker": "TransitSoftDBManager\\DBManager.cs",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftDBManager\\DBManager.cs",
+              "RelativeToolTip": "TransitSoftDBManager\\DBManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T22:13:43.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftDomain\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "TransitSoftDomain\\Vehiculo.cs",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftDomain\\Vehiculo.cs",
+              "RelativeToolTip": "TransitSoftDomain\\Vehiculo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T01:23:48.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InfraccionService.cs",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftBusiness\\InfraccionService.cs",
+              "RelativeDocumentMoniker": "TransitSoftBusiness\\InfraccionService.cs",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftBusiness\\InfraccionService.cs",
+              "RelativeToolTip": "TransitSoftBusiness\\InfraccionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T18:04:12.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Conductor.cs",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftDomain\\Conductor.cs",
+              "RelativeDocumentMoniker": "TransitSoftDomain\\Conductor.cs",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftDomain\\Conductor.cs",
+              "RelativeToolTip": "TransitSoftDomain\\Conductor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T01:23:17.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Infraccion.cs",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftDomain\\Infraccion.cs",
+              "RelativeDocumentMoniker": "TransitSoftDomain\\Infraccion.cs",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftDomain\\Infraccion.cs",
+              "RelativeToolTip": "TransitSoftDomain\\Infraccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T01:23:29.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReporteInfraccion.cs",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftDomain\\ReporteInfraccion.cs",
+              "RelativeDocumentMoniker": "TransitSoftDomain\\ReporteInfraccion.cs",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftDomain\\ReporteInfraccion.cs",
+              "RelativeToolTip": "TransitSoftDomain\\ReporteInfraccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T01:23:41.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TipoLicencia.cs",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftDomain\\TipoLicencia.cs",
+              "RelativeDocumentMoniker": "TransitSoftDomain\\TipoLicencia.cs",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftDomain\\TipoLicencia.cs",
+              "RelativeToolTip": "TransitSoftDomain\\TipoLicencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T01:23:45.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConductorService.cs",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftBusiness\\ConductorService.cs",
+              "RelativeDocumentMoniker": "TransitSoftBusiness\\ConductorService.cs",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftBusiness\\ConductorService.cs",
+              "RelativeToolTip": "TransitSoftBusiness\\ConductorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T18:04:05.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VehiculoDAOImpl.cs",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftPersistance\\DAOImpl\\VehiculoDAOImpl.cs",
+              "RelativeDocumentMoniker": "TransitSoftPersistance\\DAOImpl\\VehiculoDAOImpl.cs",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftPersistance\\DAOImpl\\VehiculoDAOImpl.cs",
+              "RelativeToolTip": "TransitSoftPersistance\\DAOImpl\\VehiculoDAOImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T01:41:38.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TipoLicenciaDAOImpl.cs",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftPersistance\\DAOImpl\\TipoLicenciaDAOImpl.cs",
+              "RelativeDocumentMoniker": "TransitSoftPersistance\\DAOImpl\\TipoLicenciaDAOImpl.cs",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftPersistance\\DAOImpl\\TipoLicenciaDAOImpl.cs",
+              "RelativeToolTip": "TransitSoftPersistance\\DAOImpl\\TipoLicenciaDAOImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T01:41:44.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InfraccionDAOImpl.cs",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftPersistance\\DAOImpl\\InfraccionDAOImpl.cs",
+              "RelativeDocumentMoniker": "TransitSoftPersistance\\DAOImpl\\InfraccionDAOImpl.cs",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftPersistance\\DAOImpl\\InfraccionDAOImpl.cs",
+              "RelativeToolTip": "TransitSoftPersistance\\DAOImpl\\InfraccionDAOImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T01:41:42.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VehiculoDAO.cs",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftPersistance\\DAO\\VehiculoDAO.cs",
+              "RelativeDocumentMoniker": "TransitSoftPersistance\\DAO\\VehiculoDAO.cs",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftPersistance\\DAO\\VehiculoDAO.cs",
+              "RelativeToolTip": "TransitSoftPersistance\\DAO\\VehiculoDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T01:41:31.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReporteInfraccionService.cs",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftBusiness\\ReporteInfraccionService.cs",
+              "RelativeDocumentMoniker": "TransitSoftBusiness\\ReporteInfraccionService.cs",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftBusiness\\ReporteInfraccionService.cs",
+              "RelativeToolTip": "TransitSoftBusiness\\ReporteInfraccionService.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwDUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T22:15:31.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReporteInfraccionDAO.cs",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftPersistance\\DAO\\ReporteInfraccionDAO.cs",
+              "RelativeDocumentMoniker": "TransitSoftPersistance\\DAO\\ReporteInfraccionDAO.cs",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftPersistance\\DAO\\ReporteInfraccionDAO.cs",
+              "RelativeToolTip": "TransitSoftPersistance\\DAO\\ReporteInfraccionDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T01:41:28.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReporteInfraccionDAOImpl.cs",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftPersistance\\DAOImpl\\ReporteInfraccionDAOImpl.cs",
+              "RelativeDocumentMoniker": "TransitSoftPersistance\\DAOImpl\\ReporteInfraccionDAOImpl.cs",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftPersistance\\DAOImpl\\ReporteInfraccionDAOImpl.cs",
+              "RelativeToolTip": "TransitSoftPersistance\\DAOImpl\\ReporteInfraccionDAOImpl.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T22:45:41.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConductorDAOImpl.cs",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftPersistance\\DAOImpl\\ConductorDAOImpl.cs",
+              "RelativeDocumentMoniker": "TransitSoftPersistance\\DAOImpl\\ConductorDAOImpl.cs",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftPersistance\\DAOImpl\\ConductorDAOImpl.cs",
+              "RelativeToolTip": "TransitSoftPersistance\\DAOImpl\\ConductorDAOImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T22:46:50.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TipoLicenciaDAO.cs",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftPersistance\\DAO\\TipoLicenciaDAO.cs",
+              "RelativeDocumentMoniker": "TransitSoftPersistance\\DAO\\TipoLicenciaDAO.cs",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftPersistance\\DAO\\TipoLicenciaDAO.cs",
+              "RelativeToolTip": "TransitSoftPersistance\\DAO\\TipoLicenciaDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T01:41:30.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Infraccion.cs",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftPersistance\\DAO\\Infraccion.cs",
+              "RelativeDocumentMoniker": "TransitSoftPersistance\\DAO\\Infraccion.cs",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftPersistance\\DAO\\Infraccion.cs",
+              "RelativeToolTip": "TransitSoftPersistance\\DAO\\Infraccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T01:41:27.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ConductorDAO.cs",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftPersistance\\DAO\\ConductorDAO.cs",
+              "RelativeDocumentMoniker": "TransitSoftPersistance\\DAO\\ConductorDAO.cs",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftPersistance\\DAO\\ConductorDAO.cs",
+              "RelativeToolTip": "TransitSoftPersistance\\DAO\\ConductorDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T01:41:25.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "propiedades.txt",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftDBManager\\propiedades.txt",
+              "RelativeDocumentMoniker": "TransitSoftDBManager\\propiedades.txt",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftDBManager\\propiedades.txt",
+              "RelativeToolTip": "TransitSoftDBManager\\propiedades.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-15T21:30:02.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoft\\Program.cs",
+              "RelativeDocumentMoniker": "TransitSoft\\Program.cs",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoft\\Program.cs",
+              "RelativeToolTip": "TransitSoft\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T22:55:14.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "properties.txt",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftDBManager\\properties.txt",
+              "RelativeDocumentMoniker": "TransitSoftDBManager\\properties.txt",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoftDBManager\\properties.txt",
+              "RelativeToolTip": "TransitSoftDBManager\\properties.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-23T22:14:30.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoft\\App.config",
+              "RelativeDocumentMoniker": "TransitSoft\\App.config",
+              "ToolTip": "D:\\Descargas\\Programacion 3\\Parcial (EX1)\\P3_20221473\\TransitSoft\\TransitSoft\\App.config",
+              "RelativeToolTip": "TransitSoft\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-23T22:14:00.911Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

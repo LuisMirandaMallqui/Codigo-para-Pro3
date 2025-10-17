@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\SoftInv\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02D63FB3-F383-4AA4-845A-BBAFC603B17C}|SoftInvBusiness\\SoftInvBusiness.csproj|t:\\softinv\\softinvbusiness\\ventabo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D63FB3-F383-4AA4-845A-BBAFC603B17C}|SoftInvBusiness\\SoftInvBusiness.csproj|solutionrelative:softinvbusiness\\ventabo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1422D4D4-B110-4AF9-B036-68C56317D481}|SoftInvPersistance\\SoftInvPersistance.csproj|t:\\softinv\\softinvpersistance\\daoimpl\\util\\tipooperaciondml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1422D4D4-B110-4AF9-B036-68C56317D481}|SoftInvPersistance\\SoftInvPersistance.csproj|solutionrelative:softinvpersistance\\daoimpl\\util\\tipooperaciondml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1422D4D4-B110-4AF9-B036-68C56317D481}|SoftInvPersistance\\SoftInvPersistance.csproj|t:\\softinv\\softinvpersistance\\daoimpl\\util\\columna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1422D4D4-B110-4AF9-B036-68C56317D481}|SoftInvPersistance\\SoftInvPersistance.csproj|solutionrelative:softinvpersistance\\daoimpl\\util\\columna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1422D4D4-B110-4AF9-B036-68C56317D481}|SoftInvPersistance\\SoftInvPersistance.csproj|t:\\softinv\\softinvpersistance\\daoimpl\\ventadaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1422D4D4-B110-4AF9-B036-68C56317D481}|SoftInvPersistance\\SoftInvPersistance.csproj|solutionrelative:softinvpersistance\\daoimpl\\ventadaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1422D4D4-B110-4AF9-B036-68C56317D481}|SoftInvPersistance\\SoftInvPersistance.csproj|t:\\softinv\\softinvpersistance\\daoimpl\\daoimplbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1422D4D4-B110-4AF9-B036-68C56317D481}|SoftInvPersistance\\SoftInvPersistance.csproj|solutionrelative:softinvpersistance\\daoimpl\\daoimplbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1422D4D4-B110-4AF9-B036-68C56317D481}|SoftInvPersistance\\SoftInvPersistance.csproj|t:\\softinv\\softinvpersistance\\dao\\ventadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1422D4D4-B110-4AF9-B036-68C56317D481}|SoftInvPersistance\\SoftInvPersistance.csproj|solutionrelative:softinvpersistance\\dao\\ventadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{523DD69A-9CFE-438E-91BE-51F5F855459D}|SoftInvModel\\SoftInvModel.csproj|t:\\softinv\\softinvmodel\\ventasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{523DD69A-9CFE-438E-91BE-51F5F855459D}|SoftInvModel\\SoftInvModel.csproj|solutionrelative:softinvmodel\\ventasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{523DD69A-9CFE-438E-91BE-51F5F855459D}|SoftInvModel\\SoftInvModel.csproj|t:\\softinv\\softinvmodel\\clientesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{523DD69A-9CFE-438E-91BE-51F5F855459D}|SoftInvModel\\SoftInvModel.csproj|solutionrelative:softinvmodel\\clientesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{523DD69A-9CFE-438E-91BE-51F5F855459D}|SoftInvModel\\SoftInvModel.csproj|t:\\softinv\\softinvmodel\\peliculasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{523DD69A-9CFE-438E-91BE-51F5F855459D}|SoftInvModel\\SoftInvModel.csproj|solutionrelative:softinvmodel\\peliculasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{523DD69A-9CFE-438E-91BE-51F5F855459D}|SoftInvModel\\SoftInvModel.csproj|t:\\softinv\\softinvmodel\\sucursalesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{523DD69A-9CFE-438E-91BE-51F5F855459D}|SoftInvModel\\SoftInvModel.csproj|solutionrelative:softinvmodel\\sucursalesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03E7292-786C-49A6-A6B1-264AC90695B7}|SoftInvDBManager\\SoftInvDBManager.csproj|t:\\softinv\\softinvdbmanager\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D03E7292-786C-49A6-A6B1-264AC90695B7}|SoftInvDBManager\\SoftInvDBManager.csproj|solutionrelative:softinvdbmanager\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C160723-B8D4-4784-A1D8-78D79CF2E13D}|SoftInvTest\\SoftInvTest.csproj|t:\\softinv\\softinvtest\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2C160723-B8D4-4784-A1D8-78D79CF2E13D}|SoftInvTest\\SoftInvTest.csproj|solutionrelative:softinvtest\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C160723-B8D4-4784-A1D8-78D79CF2E13D}|SoftInvTest\\SoftInvTest.csproj|t:\\softinv\\softinvtest\\dbmanagertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C160723-B8D4-4784-A1D8-78D79CF2E13D}|SoftInvTest\\SoftInvTest.csproj|solutionrelative:softinvtest\\dbmanagertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03E7292-786C-49A6-A6B1-264AC90695B7}|SoftInvDBManager\\SoftInvDBManager.csproj|t:\\softinv\\softinvdbmanager\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D03E7292-786C-49A6-A6B1-264AC90695B7}|SoftInvDBManager\\SoftInvDBManager.csproj|solutionrelative:softinvdbmanager\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03E7292-786C-49A6-A6B1-264AC90695B7}|SoftInvDBManager\\SoftInvDBManager.csproj|t:\\softinv\\softinvdbmanager\\dbmanagermssql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03E7292-786C-49A6-A6B1-264AC90695B7}|SoftInvDBManager\\SoftInvDBManager.csproj|solutionrelative:softinvdbmanager\\dbmanagermssql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03E7292-786C-49A6-A6B1-264AC90695B7}|SoftInvDBManager\\SoftInvDBManager.csproj|t:\\softinv\\softinvdbmanager\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03E7292-786C-49A6-A6B1-264AC90695B7}|SoftInvDBManager\\SoftInvDBManager.csproj|solutionrelative:softinvdbmanager\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03E7292-786C-49A6-A6B1-264AC90695B7}|SoftInvDBManager\\SoftInvDBManager.csproj|t:\\softinv\\softinvdbmanager\\dbmanagermysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03E7292-786C-49A6-A6B1-264AC90695B7}|SoftInvDBManager\\SoftInvDBManager.csproj|solutionrelative:softinvdbmanager\\dbmanagermysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VentaBO.cs",
+              "DocumentMoniker": "T:\\SoftInv\\SoftInvBusiness\\VentaBO.cs",
+              "RelativeDocumentMoniker": "SoftInvBusiness\\VentaBO.cs",
+              "ToolTip": "T:\\SoftInv\\SoftInvBusiness\\VentaBO.cs",
+              "RelativeToolTip": "SoftInvBusiness\\VentaBO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:28:03.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TipoOperacionDML.cs",
+              "DocumentMoniker": "T:\\SoftInv\\SoftInvPersistance\\DAOImpl\\Util\\TipoOperacionDML.cs",
+              "RelativeDocumentMoniker": "SoftInvPersistance\\DAOImpl\\Util\\TipoOperacionDML.cs",
+              "ToolTip": "T:\\SoftInv\\SoftInvPersistance\\DAOImpl\\Util\\TipoOperacionDML.cs",
+              "RelativeToolTip": "SoftInvPersistance\\DAOImpl\\Util\\TipoOperacionDML.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:27:27.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Columna.cs",
+              "DocumentMoniker": "T:\\SoftInv\\SoftInvPersistance\\DAOImpl\\Util\\Columna.cs",
+              "RelativeDocumentMoniker": "SoftInvPersistance\\DAOImpl\\Util\\Columna.cs",
+              "ToolTip": "T:\\SoftInv\\SoftInvPersistance\\DAOImpl\\Util\\Columna.cs",
+              "RelativeToolTip": "SoftInvPersistance\\DAOImpl\\Util\\Columna.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:27:25.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VentaDAOImpl.cs",
+              "DocumentMoniker": "T:\\SoftInv\\SoftInvPersistance\\DAOImpl\\VentaDAOImpl.cs",
+              "RelativeDocumentMoniker": "SoftInvPersistance\\DAOImpl\\VentaDAOImpl.cs",
+              "ToolTip": "T:\\SoftInv\\SoftInvPersistance\\DAOImpl\\VentaDAOImpl.cs",
+              "RelativeToolTip": "SoftInvPersistance\\DAOImpl\\VentaDAOImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:27:23.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DAOImplBase.cs",
+              "DocumentMoniker": "T:\\SoftInv\\SoftInvPersistance\\DAOImpl\\DAOImplBase.cs",
+              "RelativeDocumentMoniker": "SoftInvPersistance\\DAOImpl\\DAOImplBase.cs",
+              "ToolTip": "T:\\SoftInv\\SoftInvPersistance\\DAOImpl\\DAOImplBase.cs",
+              "RelativeToolTip": "SoftInvPersistance\\DAOImpl\\DAOImplBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:27:20.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VentaDAO.cs",
+              "DocumentMoniker": "T:\\SoftInv\\SoftInvPersistance\\DAO\\VentaDAO.cs",
+              "RelativeDocumentMoniker": "SoftInvPersistance\\DAO\\VentaDAO.cs",
+              "ToolTip": "T:\\SoftInv\\SoftInvPersistance\\DAO\\VentaDAO.cs",
+              "RelativeToolTip": "SoftInvPersistance\\DAO\\VentaDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:27:17.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientesDTO.cs",
+              "DocumentMoniker": "T:\\SoftInv\\SoftInvModel\\ClientesDTO.cs",
+              "RelativeDocumentMoniker": "SoftInvModel\\ClientesDTO.cs",
+              "ToolTip": "T:\\SoftInv\\SoftInvModel\\ClientesDTO.cs",
+              "RelativeToolTip": "SoftInvModel\\ClientesDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:25:32.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PeliculasDTO.cs",
+              "DocumentMoniker": "T:\\SoftInv\\SoftInvModel\\PeliculasDTO.cs",
+              "RelativeDocumentMoniker": "SoftInvModel\\PeliculasDTO.cs",
+              "ToolTip": "T:\\SoftInv\\SoftInvModel\\PeliculasDTO.cs",
+              "RelativeToolTip": "SoftInvModel\\PeliculasDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:25:30.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SucursalesDTO.cs",
+              "DocumentMoniker": "T:\\SoftInv\\SoftInvModel\\SucursalesDTO.cs",
+              "RelativeDocumentMoniker": "SoftInvModel\\SucursalesDTO.cs",
+              "ToolTip": "T:\\SoftInv\\SoftInvModel\\SucursalesDTO.cs",
+              "RelativeToolTip": "SoftInvModel\\SucursalesDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:25:28.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VentasDTO.cs",
+              "DocumentMoniker": "T:\\SoftInv\\SoftInvModel\\VentasDTO.cs",
+              "RelativeDocumentMoniker": "SoftInvModel\\VentasDTO.cs",
+              "ToolTip": "T:\\SoftInv\\SoftInvModel\\VentasDTO.cs",
+              "RelativeToolTip": "SoftInvModel\\VentasDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:25:25.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.config",
+              "DocumentMoniker": "T:\\SoftInv\\SoftInvTest\\App.config",
+              "RelativeDocumentMoniker": "SoftInvTest\\App.config",
+              "ToolTip": "T:\\SoftInv\\SoftInvTest\\App.config",
+              "RelativeToolTip": "SoftInvTest\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-01T14:23:13.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DBManagerTest.cs",
+              "DocumentMoniker": "T:\\SoftInv\\SoftInvTest\\DBManagerTest.cs",
+              "RelativeDocumentMoniker": "SoftInvTest\\DBManagerTest.cs",
+              "ToolTip": "T:\\SoftInv\\SoftInvTest\\DBManagerTest.cs",
+              "RelativeToolTip": "SoftInvTest\\DBManagerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:22:46.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "packages.config",
+              "DocumentMoniker": "T:\\SoftInv\\SoftInvDBManager\\packages.config",
+              "RelativeDocumentMoniker": "SoftInvDBManager\\packages.config",
+              "ToolTip": "T:\\SoftInv\\SoftInvDBManager\\packages.config",
+              "RelativeToolTip": "SoftInvDBManager\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-01T14:22:15.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "app.config",
+              "DocumentMoniker": "T:\\SoftInv\\SoftInvDBManager\\app.config",
+              "RelativeDocumentMoniker": "SoftInvDBManager\\app.config",
+              "ToolTip": "T:\\SoftInv\\SoftInvDBManager\\app.config",
+              "RelativeToolTip": "SoftInvDBManager\\app.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-01T14:21:45.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DBManagerMySQL.cs",
+              "DocumentMoniker": "T:\\SoftInv\\SoftInvDBManager\\DBManagerMySQL.cs",
+              "RelativeDocumentMoniker": "SoftInvDBManager\\DBManagerMySQL.cs",
+              "ToolTip": "T:\\SoftInv\\SoftInvDBManager\\DBManagerMySQL.cs",
+              "RelativeToolTip": "SoftInvDBManager\\DBManagerMySQL.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wB8AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:20:29.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DBManagerMSSQL.cs",
+              "DocumentMoniker": "T:\\SoftInv\\SoftInvDBManager\\DBManagerMSSQL.cs",
+              "RelativeDocumentMoniker": "SoftInvDBManager\\DBManagerMSSQL.cs",
+              "ToolTip": "T:\\SoftInv\\SoftInvDBManager\\DBManagerMSSQL.cs",
+              "RelativeToolTip": "SoftInvDBManager\\DBManagerMSSQL.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:20:29.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DBManager.cs",
+              "DocumentMoniker": "T:\\SoftInv\\SoftInvDBManager\\DBManager.cs",
+              "RelativeDocumentMoniker": "SoftInvDBManager\\DBManager.cs",
+              "ToolTip": "T:\\SoftInv\\SoftInvDBManager\\DBManager.cs",
+              "RelativeToolTip": "SoftInvDBManager\\DBManager.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowEAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:20:04.865Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

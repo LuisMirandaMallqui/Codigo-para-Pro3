@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransitSoftDBManager", "TransitSoftDBManager\TransitSoftDBManager.csproj", "{E6EEB2EA-591D-48BD-BC4D-53C26BC4F1E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransitSoftTest", "TransitSoftTest\TransitSoftTest.csproj", "{FB1D4311-91E1-4050-8060-CC49F40454E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransitSoftModel", "TransitSoftModel\TransitSoftModel.csproj", "{A2BDF7F2-2F2C-42FA-B8E1-C71BC8400E8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransitSoftPersistance", "TransitSoftPersistance\TransitSoftPersistance.csproj", "{E4F5F227-3E66-4800-927C-8D735324D971}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6EEB2EA-591D-48BD-BC4D-53C26BC4F1E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6EEB2EA-591D-48BD-BC4D-53C26BC4F1E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6EEB2EA-591D-48BD-BC4D-53C26BC4F1E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6EEB2EA-591D-48BD-BC4D-53C26BC4F1E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB1D4311-91E1-4050-8060-CC49F40454E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB1D4311-91E1-4050-8060-CC49F40454E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB1D4311-91E1-4050-8060-CC49F40454E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB1D4311-91E1-4050-8060-CC49F40454E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2BDF7F2-2F2C-42FA-B8E1-C71BC8400E8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2BDF7F2-2F2C-42FA-B8E1-C71BC8400E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2BDF7F2-2F2C-42FA-B8E1-C71BC8400E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2BDF7F2-2F2C-42FA-B8E1-C71BC8400E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4F5F227-3E66-4800-927C-8D735324D971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4F5F227-3E66-4800-927C-8D735324D971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4F5F227-3E66-4800-927C-8D735324D971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4F5F227-3E66-4800-927C-8D735324D971}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CEAA93F-D94C-4D9D-BA9F-C1825D1AA15E}
+	EndGlobalSection
+EndGlobal

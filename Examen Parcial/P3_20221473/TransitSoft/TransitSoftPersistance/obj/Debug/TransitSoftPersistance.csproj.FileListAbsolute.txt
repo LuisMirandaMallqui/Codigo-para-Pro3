@@ -1,0 +1,32 @@
+T:\Examen Parcial - 1INF30 - 2025-1\Pregunta03\TransitSoft\TransitSoftPersistance\bin\Debug\TransitSoftPersistance.dll
+T:\Examen Parcial - 1INF30 - 2025-1\Pregunta03\TransitSoft\TransitSoftPersistance\bin\Debug\TransitSoftPersistance.pdb
+T:\Examen Parcial - 1INF30 - 2025-1\Pregunta03\TransitSoft\TransitSoftPersistance\bin\Debug\MySql.Data.dll
+T:\Examen Parcial - 1INF30 - 2025-1\Pregunta03\TransitSoft\TransitSoftPersistance\bin\Debug\TransitSoftDomain.dll
+T:\Examen Parcial - 1INF30 - 2025-1\Pregunta03\TransitSoft\TransitSoftPersistance\bin\Debug\System.Memory.dll
+T:\Examen Parcial - 1INF30 - 2025-1\Pregunta03\TransitSoft\TransitSoftPersistance\bin\Debug\System.Threading.Tasks.Extensions.dll
+T:\Examen Parcial - 1INF30 - 2025-1\Pregunta03\TransitSoft\TransitSoftPersistance\bin\Debug\System.Numerics.Vectors.dll
+T:\Examen Parcial - 1INF30 - 2025-1\Pregunta03\TransitSoft\TransitSoftPersistance\bin\Debug\System.Buffers.dll
+T:\Examen Parcial - 1INF30 - 2025-1\Pregunta03\TransitSoft\TransitSoftPersistance\bin\Debug\TransitSoftDomain.pdb
+T:\Examen Parcial - 1INF30 - 2025-1\Pregunta03\TransitSoft\TransitSoftPersistance\obj\Debug\TransitSoftPersistance.csproj.AssemblyReference.cache
+T:\Examen Parcial - 1INF30 - 2025-1\Pregunta03\TransitSoft\TransitSoftPersistance\obj\Debug\TransitSoftPersistance.csproj.CoreCompileInputs.cache
+T:\Examen Parcial - 1INF30 - 2025-1\Pregunta03\TransitSoft\TransitSoftPersistance\obj\Debug\TransitS.8EAF258A.Up2Date
+T:\Examen Parcial - 1INF30 - 2025-1\Pregunta03\TransitSoft\TransitSoftPersistance\obj\Debug\TransitSoftPersistance.dll
+T:\Examen Parcial - 1INF30 - 2025-1\Pregunta03\TransitSoft\TransitSoftPersistance\obj\Debug\TransitSoftPersistance.pdb
+T:\Examen Parcial - 1INF30 - 2025-1\Pregunta03\TransitSoft\TransitSoftPersistance\bin\Debug\TransitSoftDBManager.dll
+T:\Examen Parcial - 1INF30 - 2025-1\Pregunta03\TransitSoft\TransitSoftPersistance\bin\Debug\TransitSoftDBManager.pdb
+D:\Descargas\Programacion 3\Parcial (EX1)\P3_20221473\TransitSoft\TransitSoftPersistance\bin\Debug\TransitSoftPersistance.dll
+D:\Descargas\Programacion 3\Parcial (EX1)\P3_20221473\TransitSoft\TransitSoftPersistance\bin\Debug\TransitSoftPersistance.pdb
+D:\Descargas\Programacion 3\Parcial (EX1)\P3_20221473\TransitSoft\TransitSoftPersistance\bin\Debug\MySql.Data.dll
+D:\Descargas\Programacion 3\Parcial (EX1)\P3_20221473\TransitSoft\TransitSoftPersistance\bin\Debug\TransitSoftDBManager.dll
+D:\Descargas\Programacion 3\Parcial (EX1)\P3_20221473\TransitSoft\TransitSoftPersistance\bin\Debug\TransitSoftDomain.dll
+D:\Descargas\Programacion 3\Parcial (EX1)\P3_20221473\TransitSoft\TransitSoftPersistance\bin\Debug\System.Memory.dll
+D:\Descargas\Programacion 3\Parcial (EX1)\P3_20221473\TransitSoft\TransitSoftPersistance\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Descargas\Programacion 3\Parcial (EX1)\P3_20221473\TransitSoft\TransitSoftPersistance\bin\Debug\System.Numerics.Vectors.dll
+D:\Descargas\Programacion 3\Parcial (EX1)\P3_20221473\TransitSoft\TransitSoftPersistance\bin\Debug\System.Buffers.dll
+D:\Descargas\Programacion 3\Parcial (EX1)\P3_20221473\TransitSoft\TransitSoftPersistance\bin\Debug\TransitSoftDBManager.pdb
+D:\Descargas\Programacion 3\Parcial (EX1)\P3_20221473\TransitSoft\TransitSoftPersistance\bin\Debug\TransitSoftDomain.pdb
+D:\Descargas\Programacion 3\Parcial (EX1)\P3_20221473\TransitSoft\TransitSoftPersistance\obj\Debug\TransitSoftPersistance.csproj.AssemblyReference.cache
+D:\Descargas\Programacion 3\Parcial (EX1)\P3_20221473\TransitSoft\TransitSoftPersistance\obj\Debug\TransitSoftPersistance.csproj.CoreCompileInputs.cache
+D:\Descargas\Programacion 3\Parcial (EX1)\P3_20221473\TransitSoft\TransitSoftPersistance\obj\Debug\TransitS.8EAF258A.Up2Date
+D:\Descargas\Programacion 3\Parcial (EX1)\P3_20221473\TransitSoft\TransitSoftPersistance\obj\Debug\TransitSoftPersistance.dll
+D:\Descargas\Programacion 3\Parcial (EX1)\P3_20221473\TransitSoft\TransitSoftPersistance\obj\Debug\TransitSoftPersistance.pdb

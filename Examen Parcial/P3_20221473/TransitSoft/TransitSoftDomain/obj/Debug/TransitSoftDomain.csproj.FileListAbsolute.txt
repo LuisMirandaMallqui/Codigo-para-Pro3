@@ -1,0 +1,12 @@
+T:\Examen Parcial - 1INF30 - 2025-1\Pregunta03\TransitSoft\TransitSoftDomain\bin\Debug\TransitSoftDomain.dll
+T:\Examen Parcial - 1INF30 - 2025-1\Pregunta03\TransitSoft\TransitSoftDomain\bin\Debug\TransitSoftDomain.pdb
+T:\Examen Parcial - 1INF30 - 2025-1\Pregunta03\TransitSoft\TransitSoftDomain\obj\Debug\TransitSoftDomain.csproj.AssemblyReference.cache
+T:\Examen Parcial - 1INF30 - 2025-1\Pregunta03\TransitSoft\TransitSoftDomain\obj\Debug\TransitSoftDomain.csproj.CoreCompileInputs.cache
+T:\Examen Parcial - 1INF30 - 2025-1\Pregunta03\TransitSoft\TransitSoftDomain\obj\Debug\TransitSoftDomain.dll
+T:\Examen Parcial - 1INF30 - 2025-1\Pregunta03\TransitSoft\TransitSoftDomain\obj\Debug\TransitSoftDomain.pdb
+D:\Descargas\Programacion 3\Parcial (EX1)\P3_20221473\TransitSoft\TransitSoftDomain\bin\Debug\TransitSoftDomain.dll
+D:\Descargas\Programacion 3\Parcial (EX1)\P3_20221473\TransitSoft\TransitSoftDomain\bin\Debug\TransitSoftDomain.pdb
+D:\Descargas\Programacion 3\Parcial (EX1)\P3_20221473\TransitSoft\TransitSoftDomain\obj\Debug\TransitSoftDomain.csproj.AssemblyReference.cache
+D:\Descargas\Programacion 3\Parcial (EX1)\P3_20221473\TransitSoft\TransitSoftDomain\obj\Debug\TransitSoftDomain.csproj.CoreCompileInputs.cache
+D:\Descargas\Programacion 3\Parcial (EX1)\P3_20221473\TransitSoft\TransitSoftDomain\obj\Debug\TransitSoftDomain.dll
+D:\Descargas\Programacion 3\Parcial (EX1)\P3_20221473\TransitSoft\TransitSoftDomain\obj\Debug\TransitSoftDomain.pdb
